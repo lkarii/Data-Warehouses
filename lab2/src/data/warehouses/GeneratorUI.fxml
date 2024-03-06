@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+
+<Pane xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="data.warehouses.GeneratorController" styleClass="main-pane">
+    <Pane styleClass="main-pane">
+        <Label layoutX="20.0" layoutY="27.0" text="Generuj dane bazy danych:" styleClass="header-label"/>
+        <Label layoutX="20.0" layoutY="82.0" text="Liczba obsług samolotów (t1, t2): " styleClass="txt-label"/>
+        <TextField fx:id="serviceTextField" layoutX="250.0" layoutY="79.0" styleClass="txt-field"/>
+        <TextField fx:id="secondServiceTextField" layoutX="375.0" layoutY="79.0" styleClass="txt-field"/>
+        <Label layoutX="20.0" layoutY="122.0" text="Liczba awarii (t1, t2): " styleClass="txt-label"/>
+        <TextField fx:id="breakdownTextField" layoutX="250.0" layoutY="119.0" styleClass="txt-field"/>
+        <TextField fx:id="secondBreakdownTextField" layoutX="375.0" layoutY="119.0" styleClass="txt-field"/>
+        <Label layoutX="20.0" layoutY="162.0" text="Liczba napraw (t1, t2): " styleClass="txt-label"/>
+        <TextField fx:id="repairTextField" layoutX="250.0" layoutY="159.0" styleClass="txt-field"/>
+        <TextField fx:id="secondRepairTextField" layoutX="375.0" layoutY="159.0" styleClass="txt-field"/>
+        <Label layoutX="20.0" layoutY="202.0" text="Liczba lotów (t1, t2): " styleClass="txt-label"/>
+        <TextField fx:id="flightTextField" layoutX="250.0" layoutY="199.0" styleClass="txt-field"/>
+        <TextField fx:id="secondFlightTextField" layoutX="375.0" layoutY="199.0" styleClass="txt-field"/>
+        <Label layoutX="20.0" layoutY="242.0" text="Liczba opóźnień (t1, t2): " styleClass="txt-label"/>
+        <TextField fx:id="delayTextField" layoutX="250.0" layoutY="239.0" styleClass="txt-field"/>
+        <TextField fx:id="secondDelayTextField" layoutX="375.0" layoutY="239.0" styleClass="txt-field"/>
+        <CheckBox fx:id="updateCheckBox" text="Wykonaj kilka losowych aktualizacji" layoutX="20.0" layoutY="285.0"/>
+
+        <Label layoutX="20.0" layoutY="327.0" text="Generuj pliki .csv:" styleClass="header-label"/>
+        <Label layoutX="20.0" layoutY="362.0" text="Liczba samolotów (t1): " styleClass="txt-label"/>
+        <TextField fx:id="csvTextField" layoutX="375.0" layoutY="359.0" styleClass="txt-field" onKeyTyped="#changeSliderParameters"/>
+        <Label layoutX="20.0" layoutY="402.0" text="Wybierz liczbę samolotów do aktualizacji (t2): " styleClass="txt-label"/>
+        <Slider fx:id="updateSlider" layoutX="375.0" layoutY="405.0" max="0" styleClass="update-slider"
+                disable="true" onMouseDragged="#changeValue" onMouseClicked="#changeValue"/>
+        <Label fx:id="sliderLabel" layoutX="350.0" layoutY="405.0" text="0"/>
+        <Label layoutX="20.0" layoutY="445.0" text="Liczba dodatkowych samolotów (t2): " styleClass="txt-label"/>
+        <TextField fx:id="secondCsvTextField" layoutX="375.0" layoutY="442.0" styleClass="txt-field"/>
+
+        <Button onAction="#setFirstSampleValues" layoutX="520.0" layoutY="200.0" text="Ustaw przykładowe wartości #1"
+                styleClass="sample-data-btn"/>
+        <Button onAction="#setSecondSampleValues" layoutX="520.0" layoutY="280.0" text="Ustaw przykładowe wartości #2"
+                styleClass="sample-data-btn"/>
+        <Button fx:id="generateBtn" onAction="#generateData" layoutX="320.0" layoutY="530.0" prefWidth="200.0" text="Generuj dane"
+                styleClass="generate-btn" onMouseEntered="#changeButtonColor" onMouseExited="#resetButtonColor"/>
+
+    </Pane>
+    <stylesheets>
+        <URL value="@Styles.css"/>
+    </stylesheets>
+</Pane>

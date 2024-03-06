@@ -1,0 +1,19 @@
+Producer,Model,MinSeats,MaxSeats,StartProductionYear,BasePrice (mln €),BaseWeight (t)
+Boeing,Boeing 787 Dreamliner,210,250,2010,163,90
+Boeing,Boeing 737-200,100,136,1967,56,50
+Boeing,Boeing 737 MAX,200,230,2011,121,71
+Boeing,Boeing 767,181,375,1981,49,80
+Boeing,Boeing 757-300,200,234,1982,51,52
+Airbus,Airbus A300,260,266,1972,89,108
+Airbus,Airbus A220-100,108,133,2011,70,49
+Airbus,Airbus A318,125,135,2002,49,35
+Airbus,Airbus A340,300,380,1993,99,167
+Embraer,Embraer 195,108,122,2004,48,29
+Embraer,Embraer 175,100,112,2003,40,22
+Embraer,Embraer 145,48,51,1994,11,12
+Embraer,Embraer 190,98,106,2004,49,27
+McDonnell Douglas,McDonnell Douglas MD-80,130,172,1979,40,34
+Airbus,Airbus A380,560,863,2007,375,276
+Boeing,Boeing 787 JumboJet,362,581,2010,211,211
+Suchoj,Suchoj Superjet 100,90,110,2007,45,43
+Lockheed,L-1011 TriStar,220,234,1975,32,112

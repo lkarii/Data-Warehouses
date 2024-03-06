@@ -1,0 +1,46 @@
+first_airport,second_airport,minutes
+London,New York,480
+Warsaw,Paris,150
+Munich,Glasgow,240
+Los Angeles,Paris,640
+Lisbon,Moscow,340
+Oslo,London,150
+London,Glasgow,85
+Beijing,Sydney,855
+Roma,Atlanta,685
+Gdansk,London,140
+Athens,Paris,210
+Leicester,Chicago,600
+Toronto,Paris,435
+Quebec,London,515
+Tokyo,London,695
+Canberra,Tokyo,755
+Seoul,Paris,735
+Cairo,London,320
+Rio De Janeiro,Madrid,610
+Madrid,Paris,130
+Mexico,New York,270
+Paris,Warsaw,130
+Toronto,Stockholm,600
+Helsinki,Moscow,135
+Helsinki,London,185
+Buenos Aires,Dallas,650
+Warsaw,New York,745
+New York,Los Angeles,325
+Brisbane,Sydney,85
+Tokyo,Seoul,160
+Singapore,London,850
+Berlin,Paris,110
+Cracow,Dublin,185
+Marseille,Rome,85
+Gothenburg,Barcelona,200
+Cleveland,Manchester,620
+Orlando,Paris,640
+Beijing,Moscow,720
+Kiev,Warsaw,150
+Istanbul,Berlin,190
+Ottawa,New York,195
+Brasilia,Miami,655
+Madrid,Miami,600
+Valencia,Zurich,125
+Zurich,London,105

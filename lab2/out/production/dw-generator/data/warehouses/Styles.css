@@ -1,0 +1,45 @@
+.main-pane {
+    -fx-background-color: #b6b6b6;
+    -fx-pref-height: 512;
+    -fx-pref-width: 200;
+}
+
+.header-label {
+    -fx-text-fill: #000000;
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+}
+
+.txt-label {
+    -fx-text-fill: #000000;
+    -fx-font-size: 13;
+}
+
+.txt-field {
+    -fx-max-width: 100;
+}
+
+.update-slider {
+    -fx-max-width: 75;
+}
+
+.sample-data-btn {
+    -fx-background-color: #578860;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+    -fx-background-radius: 7;
+}
+
+.generate-btn {
+    -fx-background-color: #578860;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+}
+
+.footer-label {
+    -fx-text-fill: #75706f;
+    -fx-font-size: 12;
+}

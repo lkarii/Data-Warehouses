@@ -1,0 +1,2200 @@
+13|null|inne|Brak zgody od kontrolera|1021
+53|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1107
+89|null|zle warunki pogodowe|Mgla nad lotniskiem|386
+91|null|inne|Oczekiwanie na inny lot|261
+184|null|inne|Inne|847
+231|null|zle warunki pogodowe|Burza na trasie|906
+266|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|794
+378|null|inne|Oczekiwanie na inny lot|688
+452|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1136
+526|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|387
+545|null|inne|Brak paliwa|526
+597|null|inne|Pozar na lotnisku|107
+632|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|772
+670|null|inne|Brak uprawnien zalogi|21
+672|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|223
+744|6|awaria samolotu|Sprawdź raport awarii|30
+898|null|inne|Niebezpieczny bagaz|856
+979|null|inne|Problemy prawne|15
+999|null|inne|Oczekiwanie na inny lot|912
+1031|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|573
+1128|null|inne|Zajety pas przez inny samolot|66
+1392|null|inne|Problemy prawne|969
+1452|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|338
+1483|null|zle warunki pogodowe|Huragan w okolicy lotniska|798
+1511|null|zle warunki pogodowe|Mgla nad lotniskiem|786
+1623|null|incydent na pokladzie|Pijani pasazerowie|945
+1626|null|inne|Oczekiwanie na inny lot|16
+1658|null|inne|Inne|311
+1666|null|inne|Brak paliwa|87
+1714|null|inne|Oczekiwanie na inny lot|123
+1813|5|awaria samolotu|Sprawdź raport awarii|903
+1831|null|inne|Niebezpieczny bagaz|316
+1935|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1177
+2023|null|incydent na pokladzie|Bijatyka na pokladzie|894
+2035|null|inne|Brak zgody od kontrolera|471
+2048|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|291
+2061|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|406
+2249|null|inne|Pozar na lotnisku|481
+2293|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1028
+2299|167|awaria samolotu|Sprawdź raport awarii|1049
+2399|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|438
+2410|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|996
+2447|null|zle warunki pogodowe|Huragan w okolicy lotniska|450
+2463|null|inne|Pozar na lotnisku|797
+2480|null|inne|Inne|669
+2507|null|inne|Zajety pas przez inny samolot|1110
+2514|null|zle warunki pogodowe|Mgla nad lotniskiem|650
+2591|null|zle warunki pogodowe|Burza na trasie|877
+2731|null|zle warunki pogodowe|Burza na trasie|333
+2759|null|incydent na pokladzie|Pijani pasazerowie|186
+2787|null|inne|Brak paliwa|450
+2809|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|580
+2877|null|zle warunki pogodowe|Huragan w okolicy lotniska|337
+2947|null|inne|Niebezpieczny bagaz|23
+2949|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|258
+3038|null|inne|Inne|254
+3040|null|inne|Zajety pas przez inny samolot|277
+3105|null|inne|Zajety pas przez inny samolot|152
+3121|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|663
+3122|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|967
+3136|null|inne|Inne|38
+3169|null|incydent na pokladzie|Pijani pasazerowie|873
+3281|null|inne|Uszkodzony sprzet lotniskowy|649
+3293|null|inne|Zagrozenie na lotnisku startowym|343
+3387|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|123
+3493|null|zle warunki pogodowe|Huragan w okolicy lotniska|209
+3541|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|390
+3549|null|zle warunki pogodowe|Lod na pasie startowym|1061
+3550|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|226
+3728|null|incydent na pokladzie|Pijani pasazerowie|746
+3750|null|inne|Pozar na lotnisku|265
+3757|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|356
+3770|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|502
+3772|null|inne|Uszkodzony sprzet lotniskowy|689
+3780|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|299
+3800|null|incydent na pokladzie|Inne|395
+3812|null|zle warunki pogodowe|Geste chmury nad lotniskiem|910
+3826|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|84
+3847|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|780
+3863|null|inne|Uszkodzony sprzet lotniskowy|987
+3904|null|zle warunki pogodowe|Huragan w okolicy lotniska|773
+3974|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|408
+4021|627|awaria samolotu|Sprawdź raport awarii|213
+4046|null|inne|Brak uprawnien zalogi|470
+4115|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|900
+4229|null|inne|Pozar na lotnisku|677
+4277|724|awaria samolotu|Sprawdź raport awarii|107
+4290|null|inne|Brak paliwa|305
+4304|null|zle warunki pogodowe|Lod na pasie startowym|983
+4345|null|inne|Spozniona zaloga lotnicza|434
+4365|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|752
+4431|null|incydent na pokladzie|Pijani pasazerowie|524
+4470|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|992
+4512|null|inne|Pozar na lotnisku|101
+4524|null|inne|Zagrozenie na lotnisku startowym|759
+4583|null|inne|Brak zgody od kontrolera|954
+4620|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|967
+4649|null|inne|Awaria oswietlenia na lotnisku|1071
+4712|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|632
+4851|null|inne|Awaria oswietlenia na lotnisku|1160
+4933|null|inne|Niebezpieczny bagaz|534
+4937|null|incydent na pokladzie|Bijatyka na pokladzie|179
+4972|918|awaria samolotu|Sprawdź raport awarii|874
+4995|943|awaria samolotu|Sprawdź raport awarii|140
+5064|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|202
+5189|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|860
+5200|null|zle warunki pogodowe|Lod na pasie startowym|1036
+5208|991|awaria samolotu|Sprawdź raport awarii|1099
+5280|null|incydent na pokladzie|Problemy zdrowotne pasazera|166
+5371|1056|awaria samolotu|Sprawdź raport awarii|211
+5374|null|incydent na pokladzie|Problemy zdrowotne pasazera|61
+5381|null|inne|Zagrozenie na lotnisku startowym|866
+5401|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|1111
+5424|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|108
+5520|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|824
+5561|null|inne|Awaria oswietlenia na lotnisku|19
+5594|null|inne|Oczekiwanie na inny lot|1045
+5600|null|inne|Zagrozenie na lotnisku startowym|836
+5705|null|zle warunki pogodowe|Mgla nad lotniskiem|729
+5744|null|inne|Inne|219
+5745|null|inne|Awaria oswietlenia na lotnisku|659
+5763|null|inne|Brak uprawnien zalogi|409
+5804|null|incydent na pokladzie|Terrorysta na pokladzie|1177
+5943|null|inne|Brak uprawnien zalogi|457
+5970|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|598
+5988|null|incydent na pokladzie|Problemy zdrowotne pasazera|1188
+6003|null|zle warunki pogodowe|Burza na trasie|965
+6065|null|incydent na pokladzie|Agresywny pasazer|759
+6236|1284|awaria samolotu|Sprawdź raport awarii|871
+6239|1295|awaria samolotu|Sprawdź raport awarii|801
+6257|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|730
+6262|null|inne|Zajety pas przez inny samolot|175
+6324|null|zle warunki pogodowe|Burza na trasie|703
+6405|1397|awaria samolotu|Sprawdź raport awarii|688
+6431|null|inne|Niebezpieczny bagaz|155
+6461|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|277
+6476|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1097
+6535|null|inne|Zagrozenie na lotnisku startowym|659
+6603|null|inne|Brak paliwa|774
+6624|null|zle warunki pogodowe|Huragan w okolicy lotniska|551
+6758|null|incydent na pokladzie|Inne|1081
+6847|null|incydent na pokladzie|Pijani pasazerowie|197
+6852|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|216
+6869|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1169
+6951|null|inne|Uszkodzony sprzet lotniskowy|722
+6972|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|761
+6993|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1008
+7006|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|215
+7078|1515|awaria samolotu|Sprawdź raport awarii|131
+7079|null|incydent na pokladzie|Bijatyka na pokladzie|807
+7102|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|772
+7164|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|17
+7230|null|inne|Zajety pas przez inny samolot|917
+7254|null|inne|Uszkodzony sprzet lotniskowy|531
+7321|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|932
+7334|null|zle warunki pogodowe|Huragan w okolicy lotniska|281
+7387|null|inne|Brak zgody od kontrolera|374
+7506|null|zle warunki pogodowe|Burza na trasie|129
+7642|null|zle warunki pogodowe|Huragan w okolicy lotniska|80
+7728|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|294
+7818|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1040
+7822|null|inne|Brak paliwa|527
+7898|null|zle warunki pogodowe|Lod na pasie startowym|145
+7901|null|incydent na pokladzie|Bijatyka na pokladzie|305
+7911|null|inne|Brak paliwa|562
+7916|null|inne|Awaria oswietlenia na lotnisku|10
+7953|null|inne|Zagrozenie na lotnisku startowym|372
+7991|null|inne|Zajety pas przez inny samolot|152
+8031|null|incydent na pokladzie|Terrorysta na pokladzie|387
+8035|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|393
+8047|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|1025
+8177|1682|awaria samolotu|Sprawdź raport awarii|472
+8230|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1085
+8233|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1064
+8326|null|zle warunki pogodowe|Burza na trasie|950
+8396|null|zle warunki pogodowe|Burza na trasie|101
+8411|1816|awaria samolotu|Sprawdź raport awarii|134
+8470|null|incydent na pokladzie|Terrorysta na pokladzie|190
+8477|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|442
+8522|1718|awaria samolotu|Sprawdź raport awarii|528
+8641|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|443
+8778|null|inne|Pozar na lotnisku|1084
+8782|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|306
+8977|null|inne|Inne|1001
+9010|null|inne|Niebezpieczny bagaz|570
+9080|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|6
+9083|null|zle warunki pogodowe|Huragan w okolicy lotniska|272
+9155|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1072
+9203|null|inne|Problemy prawne|1053
+9211|null|incydent na pokladzie|Pijani pasazerowie|51
+9366|null|zle warunki pogodowe|Lod na pasie startowym|52
+9398|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|785
+9402|null|inne|Brak paliwa|998
+9420|null|inne|Brak zgody od kontrolera|1158
+9452|1819|awaria samolotu|Sprawdź raport awarii|84
+9458|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1022
+9493|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|146
+9676|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|115
+9682|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|930
+9704|null|incydent na pokladzie|Agresywny pasazer|191
+9706|1789|awaria samolotu|Sprawdź raport awarii|833
+9711|null|inne|Brak zgody od kontrolera|719
+9768|1803|awaria samolotu|Sprawdź raport awarii|183
+9769|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|87
+9821|null|inne|Brak uprawnien zalogi|933
+9848|null|zle warunki pogodowe|Burza na trasie|536
+10004|null|inne|Brak paliwa|343
+10060|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1017
+10233|null|zle warunki pogodowe|Geste chmury nad lotniskiem|466
+10253|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1156
+10320|null|zle warunki pogodowe|Geste chmury nad lotniskiem|21
+10391|null|zle warunki pogodowe|Burza na trasie|212
+10413|null|inne|Zajety pas przez inny samolot|103
+10450|null|inne|Zajety pas przez inny samolot|76
+10541|null|zle warunki pogodowe|Burza na trasie|487
+10663|1883|awaria samolotu|Sprawdź raport awarii|304
+10669|null|inne|Oczekiwanie na inny lot|390
+10711|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|545
+10786|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|209
+10799|null|zle warunki pogodowe|Burza na trasie|845
+10836|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|602
+10855|null|inne|Oczekiwanie na inny lot|568
+10889|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|464
+10903|1974|awaria samolotu|Sprawdź raport awarii|1126
+10909|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|811
+11146|null|inne|Brak zgody od kontrolera|653
+11181|null|zle warunki pogodowe|Lod na pasie startowym|425
+11212|null|inne|Oczekiwanie na inny lot|571
+11363|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|218
+11454|null|incydent na pokladzie|Terrorysta na pokladzie|795
+11554|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|1107
+11568|1990|awaria samolotu|Sprawdź raport awarii|389
+11602|null|inne|Inne|466
+11611|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|264
+11686|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|378
+11705|null|inne|Oczekiwanie na inny lot|180
+11771|null|inne|Brak uprawnien zalogi|774
+11842|null|inne|Spozniona zaloga lotnicza|670
+11866|null|inne|Spozniona zaloga lotnicza|261
+11923|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|562
+12008|null|inne|Niebezpieczny bagaz|168
+12039|null|inne|Zagrozenie na lotnisku startowym|1133
+12117|null|inne|Pozar na lotnisku|441
+12170|null|inne|Niebezpieczny bagaz|808
+12177|null|inne|Problemy prawne|233
+12284|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1072
+12324|null|inne|Zagrozenie na lotnisku startowym|36
+12414|2173|awaria samolotu|Sprawdź raport awarii|359
+12481|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1196
+12492|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|493
+12696|null|zle warunki pogodowe|Lod na pasie startowym|1192
+12720|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|569
+12844|null|inne|Awaria oswietlenia na lotnisku|955
+12853|null|zle warunki pogodowe|Geste chmury nad lotniskiem|506
+12863|null|incydent na pokladzie|Pijani pasazerowie|1050
+12874|null|inne|Uszkodzony sprzet lotniskowy|1103
+12987|null|inne|Brak paliwa|625
+13005|null|inne|Awaria oswietlenia na lotnisku|147
+13024|2316|awaria samolotu|Sprawdź raport awarii|141
+13070|2232|awaria samolotu|Sprawdź raport awarii|1118
+13363|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|305
+13441|null|incydent na pokladzie|Pijani pasazerowie|268
+13449|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|177
+13494|null|inne|Problemy prawne|101
+13592|null|inne|Spozniona zaloga lotnicza|651
+13598|null|inne|Uszkodzony sprzet lotniskowy|855
+13739|null|incydent na pokladzie|Pijani pasazerowie|1105
+13757|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|24
+13821|null|inne|Brak zgody od kontrolera|625
+13833|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|1084
+13836|null|inne|Uszkodzony sprzet lotniskowy|833
+13871|null|incydent na pokladzie|Terrorysta na pokladzie|1044
+13878|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|532
+13897|null|inne|Oczekiwanie na inny lot|477
+14016|null|incydent na pokladzie|Pijani pasazerowie|286
+14053|null|zle warunki pogodowe|Huragan w okolicy lotniska|612
+14202|null|inne|Oczekiwanie na inny lot|12
+14258|null|incydent na pokladzie|Bijatyka na pokladzie|1114
+14267|null|zle warunki pogodowe|Burza na trasie|119
+14310|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|651
+14402|null|inne|Zagrozenie na lotnisku startowym|440
+14455|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|1167
+14504|null|zle warunki pogodowe|Burza na trasie|486
+14618|null|inne|Brak zgody od kontrolera|1142
+14688|null|zle warunki pogodowe|Burza na trasie|360
+14843|null|inne|Zajety pas przez inny samolot|1016
+14858|2369|awaria samolotu|Sprawdź raport awarii|510
+14972|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|272
+15004|null|zle warunki pogodowe|Mgla nad lotniskiem|134
+15052|null|zle warunki pogodowe|Burza na trasie|568
+15064|null|incydent na pokladzie|Inne|1099
+15240|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|25
+15252|null|zle warunki pogodowe|Geste chmury nad lotniskiem|112
+15294|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|413
+15341|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|940
+15369|null|inne|Zajety pas przez inny samolot|610
+15551|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|329
+15604|null|incydent na pokladzie|Bijatyka na pokladzie|936
+15676|null|zle warunki pogodowe|Lod na pasie startowym|997
+15684|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|600
+15770|null|inne|Awaria oswietlenia na lotnisku|503
+15787|null|inne|Niebezpieczny bagaz|1110
+15799|2540|awaria samolotu|Sprawdź raport awarii|467
+15846|null|inne|Awaria oswietlenia na lotnisku|1151
+15893|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1199
+16286|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|866
+16298|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|268
+16424|null|inne|Brak paliwa|259
+16429|null|inne|Pozar na lotnisku|676
+16448|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|714
+16460|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1075
+16627|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|631
+16675|null|zle warunki pogodowe|Mgla nad lotniskiem|707
+16699|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1005
+16728|null|inne|Awaria oswietlenia na lotnisku|845
+16777|2616|awaria samolotu|Sprawdź raport awarii|1147
+16820|null|incydent na pokladzie|Inne|183
+16823|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|919
+16826|null|inne|Niebezpieczny bagaz|872
+16831|null|inne|Awaria oswietlenia na lotnisku|264
+16886|2658|awaria samolotu|Sprawdź raport awarii|369
+17013|null|incydent na pokladzie|Bijatyka na pokladzie|119
+17051|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|708
+17099|null|zle warunki pogodowe|Huragan w okolicy lotniska|1134
+17215|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1183
+17226|null|incydent na pokladzie|Problemy zdrowotne pasazera|674
+17244|null|inne|Oczekiwanie na inny lot|396
+17256|null|inne|Oczekiwanie na inny lot|66
+17288|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|97
+17297|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|929
+17589|null|zle warunki pogodowe|Burza na trasie|79
+17649|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|687
+17651|null|incydent na pokladzie|Terrorysta na pokladzie|576
+17736|null|inne|Niebezpieczny bagaz|1103
+17800|null|incydent na pokladzie|Pijani pasazerowie|779
+17814|2731|awaria samolotu|Sprawdź raport awarii|588
+17834|null|zle warunki pogodowe|Huragan w okolicy lotniska|487
+17887|null|incydent na pokladzie|Bijatyka na pokladzie|722
+17891|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|735
+17958|null|zle warunki pogodowe|Geste chmury nad lotniskiem|175
+18004|null|inne|Problemy prawne|1131
+18023|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1062
+18077|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1075
+18152|null|zle warunki pogodowe|Huragan w okolicy lotniska|335
+18159|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|401
+18230|null|inne|Zajety pas przez inny samolot|400
+18301|null|zle warunki pogodowe|Burza na trasie|766
+18437|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|644
+18530|null|inne|Inne|853
+18611|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|271
+18623|2897|awaria samolotu|Sprawdź raport awarii|66
+18791|null|inne|Niebezpieczny bagaz|891
+18864|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|521
+18980|null|inne|Niebezpieczny bagaz|626
+19013|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|252
+19054|null|inne|Uszkodzony sprzet lotniskowy|136
+19165|null|zle warunki pogodowe|Burza na trasie|986
+19308|2934|awaria samolotu|Sprawdź raport awarii|369
+19463|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|560
+19509|null|inne|Pozar na lotnisku|918
+19529|null|inne|Zajety pas przez inny samolot|727
+19574|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|246
+19586|2906|awaria samolotu|Sprawdź raport awarii|544
+19644|null|incydent na pokladzie|Pijani pasazerowie|899
+19732|null|inne|Zagrozenie na lotnisku startowym|735
+19816|null|inne|Brak zgody od kontrolera|1122
+19891|null|incydent na pokladzie|Agresywny pasazer|386
+19912|null|inne|Uszkodzony sprzet lotniskowy|78
+19970|null|inne|Pozar na lotnisku|738
+20026|null|inne|Oczekiwanie na inny lot|312
+20028|2959|awaria samolotu|Sprawdź raport awarii|325
+20034|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|189
+20053|null|incydent na pokladzie|Pijani pasazerowie|923
+20070|null|incydent na pokladzie|Pijani pasazerowie|964
+20112|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|392
+20130|2963|awaria samolotu|Sprawdź raport awarii|1034
+20148|null|zle warunki pogodowe|Geste chmury nad lotniskiem|607
+20161|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|117
+20166|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|602
+20171|3150|awaria samolotu|Sprawdź raport awarii|73
+20184|3043|awaria samolotu|Sprawdź raport awarii|284
+20260|null|incydent na pokladzie|Bijatyka na pokladzie|1138
+20275|null|zle warunki pogodowe|Lod na pasie startowym|1173
+20280|3086|awaria samolotu|Sprawdź raport awarii|496
+20453|null|incydent na pokladzie|Terrorysta na pokladzie|159
+20530|3335|awaria samolotu|Sprawdź raport awarii|90
+20540|null|inne|Brak paliwa|390
+20548|null|inne|Zajety pas przez inny samolot|478
+20629|null|inne|Zajety pas przez inny samolot|438
+20637|null|inne|Oczekiwanie na inny lot|198
+20744|null|incydent na pokladzie|Agresywny pasazer|986
+20768|null|incydent na pokladzie|Terrorysta na pokladzie|38
+20778|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1184
+20833|null|inne|Awaria oswietlenia na lotnisku|905
+20837|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1179
+20906|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|766
+20921|null|inne|Spozniona zaloga lotnicza|60
+20976|null|inne|Niebezpieczny bagaz|708
+21049|null|inne|Spozniona zaloga lotnicza|471
+21079|null|zle warunki pogodowe|Huragan w okolicy lotniska|1115
+21124|null|inne|Brak paliwa|1171
+21220|null|zle warunki pogodowe|Lod na pasie startowym|893
+21293|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|798
+21300|null|inne|Uszkodzony sprzet lotniskowy|550
+21324|3282|awaria samolotu|Sprawdź raport awarii|1078
+21352|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|178
+21420|null|incydent na pokladzie|Agresywny pasazer|856
+21422|null|zle warunki pogodowe|Huragan w okolicy lotniska|220
+21549|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|679
+21557|null|zle warunki pogodowe|Lod na pasie startowym|644
+21588|null|inne|Niebezpieczny bagaz|898
+21618|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1009
+21698|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|815
+21828|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|555
+21830|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|149
+21992|null|inne|Niebezpieczny bagaz|833
+22044|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|518
+22081|null|incydent na pokladzie|Inne|154
+22095|null|inne|Brak uprawnien zalogi|567
+22232|null|incydent na pokladzie|Pijani pasazerowie|336
+22284|null|incydent na pokladzie|Pijani pasazerowie|738
+22386|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|443
+22399|null|incydent na pokladzie|Inne|733
+22445|null|inne|Brak zgody od kontrolera|293
+22470|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1170
+22576|null|inne|Oczekiwanie na inny lot|361
+22585|3449|awaria samolotu|Sprawdź raport awarii|438
+22678|null|inne|Zajety pas przez inny samolot|1110
+22707|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|218
+22729|3310|awaria samolotu|Sprawdź raport awarii|861
+22741|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|814
+22748|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|366
+22750|3249|awaria samolotu|Sprawdź raport awarii|438
+22793|null|inne|Niebezpieczny bagaz|764
+22796|3262|awaria samolotu|Sprawdź raport awarii|1087
+22822|null|zle warunki pogodowe|Burza na trasie|529
+22893|null|inne|Awaria oswietlenia na lotnisku|890
+22951|null|inne|Inne|1084
+23029|null|inne|Oczekiwanie na inny lot|782
+23036|null|inne|Brak paliwa|666
+23150|null|incydent na pokladzie|Agresywny pasazer|247
+23160|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|224
+23186|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|626
+23188|null|incydent na pokladzie|Agresywny pasazer|6
+23256|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|123
+23260|null|zle warunki pogodowe|Burza na trasie|482
+23290|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|56
+23322|null|inne|Oczekiwanie na inny lot|52
+23519|null|inne|Oczekiwanie na inny lot|355
+23555|null|inne|Spozniona zaloga lotnicza|674
+23766|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|258
+23922|null|zle warunki pogodowe|Huragan w okolicy lotniska|70
+24031|null|inne|Pozar na lotnisku|233
+24205|null|incydent na pokladzie|Terrorysta na pokladzie|565
+24272|3301|awaria samolotu|Sprawdź raport awarii|109
+24296|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|963
+24299|null|inne|Oczekiwanie na inny lot|763
+24365|3394|awaria samolotu|Sprawdź raport awarii|556
+24548|null|inne|Zagrozenie na lotnisku startowym|406
+24573|null|inne|Brak zgody od kontrolera|141
+24610|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1041
+24664|null|incydent na pokladzie|Terrorysta na pokladzie|267
+24665|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|748
+24746|null|inne|Pozar na lotnisku|776
+24798|null|zle warunki pogodowe|Burza na trasie|917
+24837|null|inne|Inne|537
+24850|3412|awaria samolotu|Sprawdź raport awarii|716
+24857|null|inne|Brak zgody od kontrolera|485
+24939|null|zle warunki pogodowe|Huragan w okolicy lotniska|332
+25073|null|incydent na pokladzie|Inne|417
+25079|null|incydent na pokladzie|Terrorysta na pokladzie|1107
+25162|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1022
+25296|3619|awaria samolotu|Sprawdź raport awarii|450
+25411|null|incydent na pokladzie|Agresywny pasazer|766
+25480|null|inne|Inne|1070
+25534|null|inne|Oczekiwanie na inny lot|546
+25537|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|108
+25630|null|zle warunki pogodowe|Lod na pasie startowym|1198
+25663|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1000
+25687|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|785
+25697|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|677
+25730|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|915
+25799|null|inne|Zajety pas przez inny samolot|171
+25801|null|incydent na pokladzie|Inne|230
+25885|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|28
+25926|3977|awaria samolotu|Sprawdź raport awarii|1035
+25951|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|255
+26037|null|inne|Niebezpieczny bagaz|556
+26051|null|zle warunki pogodowe|Mgla nad lotniskiem|210
+26066|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|693
+26088|3431|awaria samolotu|Sprawdź raport awarii|585
+26187|null|incydent na pokladzie|Pijani pasazerowie|196
+26206|null|zle warunki pogodowe|Geste chmury nad lotniskiem|399
+26268|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|568
+26328|null|inne|Zajety pas przez inny samolot|727
+26351|null|zle warunki pogodowe|Geste chmury nad lotniskiem|697
+26376|3337|awaria samolotu|Sprawdź raport awarii|999
+26508|null|inne|Brak uprawnien zalogi|804
+26515|null|inne|Brak zgody od kontrolera|514
+26551|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|276
+26569|null|zle warunki pogodowe|Mgla nad lotniskiem|13
+26613|null|incydent na pokladzie|Agresywny pasazer|834
+26626|null|inne|Spozniona zaloga lotnicza|580
+26690|3439|awaria samolotu|Sprawdź raport awarii|103
+26746|null|zle warunki pogodowe|Mgla nad lotniskiem|1142
+26763|null|inne|Brak uprawnien zalogi|1050
+26783|null|inne|Brak uprawnien zalogi|676
+26950|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1163
+26952|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|334
+26974|null|inne|Inne|252
+27017|null|inne|Brak paliwa|214
+27045|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1015
+27073|null|zle warunki pogodowe|Lod na pasie startowym|489
+27097|null|inne|Pozar na lotnisku|613
+27111|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|358
+27143|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|431
+27150|null|incydent na pokladzie|Bijatyka na pokladzie|733
+27191|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|949
+27197|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|929
+27282|null|zle warunki pogodowe|Geste chmury nad lotniskiem|288
+27340|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|398
+27405|null|inne|Inne|90
+27424|null|inne|Inne|372
+27534|null|incydent na pokladzie|Terrorysta na pokladzie|629
+27561|null|zle warunki pogodowe|Lod na pasie startowym|485
+27725|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|465
+27757|3560|awaria samolotu|Sprawdź raport awarii|72
+27884|null|inne|Pozar na lotnisku|66
+27912|null|zle warunki pogodowe|Geste chmury nad lotniskiem|74
+27967|3463|awaria samolotu|Sprawdź raport awarii|1061
+27986|null|inne|Zagrozenie na lotnisku startowym|986
+28038|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|389
+28071|null|inne|Inne|581
+28080|null|incydent na pokladzie|Inne|82
+28204|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1154
+28260|null|inne|Brak uprawnien zalogi|523
+28384|null|zle warunki pogodowe|Mgla nad lotniskiem|778
+28428|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|460
+28459|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|400
+28492|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1020
+28505|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|507
+28539|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|79
+28766|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|328
+28813|3568|awaria samolotu|Sprawdź raport awarii|1194
+28942|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|124
+28973|null|inne|Pozar na lotnisku|274
+28980|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|406
+29194|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|849
+29197|null|inne|Zajety pas przez inny samolot|574
+29251|null|incydent na pokladzie|Terrorysta na pokladzie|458
+29312|null|incydent na pokladzie|Problemy zdrowotne pasazera|691
+29357|4449|awaria samolotu|Sprawdź raport awarii|300
+29370|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|18
+29394|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|923
+29406|null|inne|Oczekiwanie na inny lot|1064
+29471|null|inne|Zagrozenie na lotnisku startowym|1046
+29485|null|inne|Oczekiwanie na inny lot|1187
+29494|null|zle warunki pogodowe|Huragan w okolicy lotniska|470
+29525|3506|awaria samolotu|Sprawdź raport awarii|205
+29537|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|975
+29551|3472|awaria samolotu|Sprawdź raport awarii|62
+29651|null|zle warunki pogodowe|Mgla nad lotniskiem|600
+29697|null|inne|Inne|141
+29755|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|36
+29768|null|inne|Awaria oswietlenia na lotnisku|142
+29773|null|inne|Zajety pas przez inny samolot|1192
+29780|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|537
+29807|null|zle warunki pogodowe|Huragan w okolicy lotniska|1100
+29911|null|inne|Brak uprawnien zalogi|187
+29963|null|incydent na pokladzie|Agresywny pasazer|590
+30044|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|99
+30084|null|inne|Brak zgody od kontrolera|475
+30092|null|incydent na pokladzie|Inne|822
+30118|3638|awaria samolotu|Sprawdź raport awarii|1104
+30132|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|466
+30148|null|zle warunki pogodowe|Lod na pasie startowym|601
+30160|null|inne|Brak zgody od kontrolera|355
+30191|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|336
+30201|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|153
+30303|null|incydent na pokladzie|Bijatyka na pokladzie|56
+30378|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|28
+30449|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|807
+30495|null|zle warunki pogodowe|Mgla nad lotniskiem|223
+30508|null|incydent na pokladzie|Problemy zdrowotne pasazera|209
+30576|3664|awaria samolotu|Sprawdź raport awarii|100
+30595|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|51
+30598|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|380
+30653|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|785
+30665|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|986
+30690|null|incydent na pokladzie|Bijatyka na pokladzie|55
+30837|null|inne|Brak paliwa|373
+30883|null|inne|Pozar na lotnisku|267
+30905|null|inne|Brak uprawnien zalogi|220
+30935|null|incydent na pokladzie|Pijani pasazerowie|631
+31021|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|25
+31114|null|inne|Zagrozenie na lotnisku startowym|876
+31127|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|574
+31133|null|zle warunki pogodowe|Mgla nad lotniskiem|1178
+31255|null|zle warunki pogodowe|Lod na pasie startowym|641
+31602|null|inne|Zagrozenie na lotnisku startowym|546
+31666|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|210
+31692|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|973
+31872|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|871
+31899|null|inne|Uszkodzony sprzet lotniskowy|882
+31902|null|inne|Zagrozenie na lotnisku startowym|715
+31956|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|528
+32033|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|800
+32144|3740|awaria samolotu|Sprawdź raport awarii|1014
+32149|null|inne|Problemy prawne|750
+32208|null|inne|Oczekiwanie na inny lot|1145
+32278|null|inne|Problemy prawne|1100
+32282|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|372
+32295|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|362
+32386|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|299
+32394|null|inne|Pozar na lotnisku|240
+32462|3773|awaria samolotu|Sprawdź raport awarii|570
+32505|null|incydent na pokladzie|Agresywny pasazer|1000
+32669|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|264
+32706|null|inne|Niebezpieczny bagaz|742
+32800|null|incydent na pokladzie|Terrorysta na pokladzie|72
+32888|null|inne|Brak paliwa|284
+33118|null|zle warunki pogodowe|Huragan w okolicy lotniska|594
+33120|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1198
+33178|null|inne|Uszkodzony sprzet lotniskowy|604
+33272|null|inne|Zajety pas przez inny samolot|267
+33352|null|inne|Spozniona zaloga lotnicza|926
+33354|3883|awaria samolotu|Sprawdź raport awarii|1056
+33389|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|461
+33407|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|186
+33665|3800|awaria samolotu|Sprawdź raport awarii|1136
+33752|3864|awaria samolotu|Sprawdź raport awarii|422
+33827|null|inne|Oczekiwanie na inny lot|1150
+33853|null|inne|Brak zgody od kontrolera|23
+33950|null|zle warunki pogodowe|Huragan w okolicy lotniska|241
+33981|null|inne|Oczekiwanie na inny lot|1109
+33993|null|inne|Brak zgody od kontrolera|873
+33999|null|inne|Brak uprawnien zalogi|626
+34001|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1153
+34073|null|inne|Uszkodzony sprzet lotniskowy|570
+34091|null|incydent na pokladzie|Terrorysta na pokladzie|931
+34104|null|inne|Spozniona zaloga lotnicza|742
+34173|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|145
+34194|null|inne|Zajety pas przez inny samolot|818
+34280|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|943
+34375|null|inne|Brak paliwa|681
+34479|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|651
+34570|null|inne|Uszkodzony sprzet lotniskowy|308
+34681|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|80
+34744|null|zle warunki pogodowe|Lod na pasie startowym|408
+34780|null|zle warunki pogodowe|Geste chmury nad lotniskiem|245
+34822|null|inne|Oczekiwanie na inny lot|625
+34856|3883|awaria samolotu|Sprawdź raport awarii|919
+34877|null|inne|Uszkodzony sprzet lotniskowy|495
+34885|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|653
+35209|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|518
+35215|null|inne|Zajety pas przez inny samolot|173
+35240|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|1061
+35243|null|inne|Brak paliwa|125
+35381|null|inne|Awaria oswietlenia na lotnisku|414
+35496|null|inne|Zajety pas przez inny samolot|1100
+35499|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|0
+35500|null|incydent na pokladzie|Terrorysta na pokladzie|180
+35564|null|inne|Brak zgody od kontrolera|706
+35600|null|inne|Zagrozenie na lotnisku startowym|1031
+35781|null|inne|Brak paliwa|984
+35807|null|inne|Problemy prawne|1058
+35811|null|incydent na pokladzie|Terrorysta na pokladzie|540
+35814|null|zle warunki pogodowe|Huragan w okolicy lotniska|181
+35899|null|inne|Brak zgody od kontrolera|971
+35907|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|677
+35909|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|552
+35932|null|inne|Oczekiwanie na inny lot|424
+35966|3991|awaria samolotu|Sprawdź raport awarii|1066
+36029|null|inne|Zajety pas przez inny samolot|1160
+36084|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|222
+36210|null|inne|Spozniona zaloga lotnicza|955
+36414|null|incydent na pokladzie|Problemy zdrowotne pasazera|1073
+36448|null|inne|Oczekiwanie na inny lot|1055
+36490|null|inne|Zagrozenie na lotnisku startowym|505
+36716|null|zle warunki pogodowe|Burza na trasie|508
+36745|4235|awaria samolotu|Sprawdź raport awarii|172
+36823|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|259
+36953|null|inne|Zagrozenie na lotnisku startowym|96
+37005|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1066
+37075|null|inne|Pozar na lotnisku|628
+37168|null|inne|Zajety pas przez inny samolot|721
+37544|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1100
+37550|null|inne|Brak zgody od kontrolera|339
+37594|null|incydent na pokladzie|Terrorysta na pokladzie|881
+37774|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|422
+37807|null|zle warunki pogodowe|Huragan w okolicy lotniska|403
+37872|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|891
+37883|null|incydent na pokladzie|Terrorysta na pokladzie|786
+37941|null|inne|Oczekiwanie na inny lot|899
+38026|3972|awaria samolotu|Sprawdź raport awarii|543
+38041|null|inne|Niebezpieczny bagaz|20
+38087|null|incydent na pokladzie|Inne|258
+38091|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|851
+38145|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|917
+38149|null|inne|Awaria oswietlenia na lotnisku|506
+38316|null|inne|Uszkodzony sprzet lotniskowy|501
+38427|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|381
+38429|null|inne|Zagrozenie na lotnisku startowym|337
+38503|null|incydent na pokladzie|Terrorysta na pokladzie|965
+38514|4736|awaria samolotu|Sprawdź raport awarii|421
+38601|null|incydent na pokladzie|Problemy zdrowotne pasazera|987
+38650|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|333
+38655|3942|awaria samolotu|Sprawdź raport awarii|355
+38710|null|incydent na pokladzie|Bijatyka na pokladzie|289
+38724|null|inne|Spozniona zaloga lotnicza|920
+38735|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|679
+38769|null|inne|Problemy prawne|875
+38794|4662|awaria samolotu|Sprawdź raport awarii|1162
+39030|null|inne|Problemy prawne|814
+39052|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1123
+39054|null|incydent na pokladzie|Terrorysta na pokladzie|1024
+39074|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|258
+39135|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1070
+39307|null|inne|Pozar na lotnisku|1082
+39365|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|998
+39444|4034|awaria samolotu|Sprawdź raport awarii|101
+39482|null|inne|Brak uprawnien zalogi|1011
+39497|null|zle warunki pogodowe|Mgla nad lotniskiem|844
+39503|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1051
+39537|null|inne|Brak paliwa|325
+39576|null|inne|Uszkodzony sprzet lotniskowy|685
+39650|3985|awaria samolotu|Sprawdź raport awarii|372
+39687|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1143
+39728|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|340
+39765|null|inne|Pozar na lotnisku|520
+39806|null|inne|Awaria oswietlenia na lotnisku|151
+39868|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|209
+39925|null|zle warunki pogodowe|Huragan w okolicy lotniska|817
+39927|null|inne|Uszkodzony sprzet lotniskowy|115
+40108|null|zle warunki pogodowe|Burza na trasie|1126
+40116|null|inne|Spozniona zaloga lotnicza|51
+40218|null|inne|Pozar na lotnisku|395
+40239|null|zle warunki pogodowe|Mgla nad lotniskiem|674
+40349|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|205
+40383|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1151
+40571|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|75
+40641|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|688
+40720|null|inne|Pozar na lotnisku|436
+40721|null|inne|Brak paliwa|250
+40750|null|incydent na pokladzie|Terrorysta na pokladzie|920
+40848|null|zle warunki pogodowe|Mgla nad lotniskiem|574
+40864|null|zle warunki pogodowe|Lod na pasie startowym|25
+40979|null|inne|Pozar na lotnisku|715
+41004|null|inne|Uszkodzony sprzet lotniskowy|529
+41019|null|inne|Inne|182
+41185|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|712
+41275|null|inne|Brak zgody od kontrolera|620
+41283|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|144
+41462|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|852
+41514|null|incydent na pokladzie|Agresywny pasazer|616
+41548|null|inne|Brak zgody od kontrolera|945
+41582|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|994
+41584|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|610
+41637|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|410
+41695|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|944
+41702|null|inne|Spozniona zaloga lotnicza|832
+41717|null|zle warunki pogodowe|Mgla nad lotniskiem|930
+41721|null|zle warunki pogodowe|Huragan w okolicy lotniska|498
+41825|4125|awaria samolotu|Sprawdź raport awarii|812
+41914|null|zle warunki pogodowe|Mgla nad lotniskiem|711
+41934|null|inne|Niebezpieczny bagaz|1161
+41970|null|inne|Zajety pas przez inny samolot|1079
+42017|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1091
+42114|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|256
+42169|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|273
+42251|null|inne|Problemy prawne|686
+42295|4384|awaria samolotu|Sprawdź raport awarii|1055
+42303|null|inne|Problemy prawne|1080
+42388|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|624
+42436|null|incydent na pokladzie|Problemy zdrowotne pasazera|393
+42453|null|zle warunki pogodowe|Mgla nad lotniskiem|426
+42481|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|543
+42493|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|834
+42519|null|incydent na pokladzie|Bijatyka na pokladzie|602
+42581|null|inne|Oczekiwanie na inny lot|136
+42614|null|inne|Problemy prawne|124
+42664|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|25
+42687|null|inne|Problemy prawne|349
+42723|null|zle warunki pogodowe|Burza na trasie|601
+42845|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1036
+42905|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|333
+42906|null|inne|Brak paliwa|383
+42950|null|incydent na pokladzie|Pijani pasazerowie|419
+42962|null|inne|Problemy prawne|978
+43082|4610|awaria samolotu|Sprawdź raport awarii|750
+43170|null|zle warunki pogodowe|Burza na trasie|42
+43278|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|569
+43332|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|973
+43452|null|inne|Zagrozenie na lotnisku startowym|193
+43564|4228|awaria samolotu|Sprawdź raport awarii|345
+43586|null|zle warunki pogodowe|Burza na trasie|262
+43643|null|inne|Oczekiwanie na inny lot|208
+43666|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|889
+43675|null|incydent na pokladzie|Bijatyka na pokladzie|907
+43736|null|inne|Problemy prawne|6
+43860|null|zle warunki pogodowe|Mgla nad lotniskiem|251
+43967|null|inne|Brak zgody od kontrolera|385
+43968|null|inne|Pozar na lotnisku|1181
+43987|null|inne|Spozniona zaloga lotnicza|634
+44110|null|inne|Awaria oswietlenia na lotnisku|868
+44149|4436|awaria samolotu|Sprawdź raport awarii|277
+44154|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|621
+44163|null|inne|Spozniona zaloga lotnicza|1017
+44235|null|zle warunki pogodowe|Burza na trasie|329
+44241|null|inne|Zagrozenie na lotnisku startowym|547
+44262|null|incydent na pokladzie|Bijatyka na pokladzie|937
+44266|null|zle warunki pogodowe|Mgla nad lotniskiem|316
+44314|null|inne|Brak zgody od kontrolera|668
+44323|null|incydent na pokladzie|Problemy zdrowotne pasazera|1122
+44418|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|825
+44425|null|inne|Oczekiwanie na inny lot|204
+44493|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|216
+44498|4273|awaria samolotu|Sprawdź raport awarii|413
+44546|null|inne|Brak uprawnien zalogi|499
+44550|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|658
+44701|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|538
+44787|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|946
+44789|null|inne|Brak paliwa|741
+44831|null|incydent na pokladzie|Problemy zdrowotne pasazera|85
+44915|null|incydent na pokladzie|Agresywny pasazer|457
+44961|null|inne|Awaria oswietlenia na lotnisku|1007
+45022|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1112
+45138|null|inne|Problemy prawne|719
+45155|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|9
+45180|null|inne|Brak uprawnien zalogi|995
+45187|null|zle warunki pogodowe|Geste chmury nad lotniskiem|593
+45189|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|64
+45246|null|inne|Pozar na lotnisku|891
+45271|null|inne|Spozniona zaloga lotnicza|1196
+45277|null|inne|Problemy prawne|339
+45326|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1090
+45343|null|incydent na pokladzie|Pijani pasazerowie|1154
+45365|null|inne|Niebezpieczny bagaz|137
+45369|null|zle warunki pogodowe|Burza na trasie|749
+45440|null|inne|Spozniona zaloga lotnicza|527
+45490|null|inne|Problemy prawne|951
+45511|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1111
+45638|null|incydent na pokladzie|Agresywny pasazer|581
+45692|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|718
+45700|null|incydent na pokladzie|Pijani pasazerowie|777
+45735|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|170
+45752|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|468
+45776|4352|awaria samolotu|Sprawdź raport awarii|787
+45803|null|inne|Inne|1116
+45921|null|zle warunki pogodowe|Lod na pasie startowym|103
+45924|4552|awaria samolotu|Sprawdź raport awarii|338
+45940|null|inne|Zajety pas przez inny samolot|573
+46101|null|zle warunki pogodowe|Huragan w okolicy lotniska|393
+46123|null|inne|Problemy prawne|1129
+46141|null|inne|Pozar na lotnisku|669
+46223|4368|awaria samolotu|Sprawdź raport awarii|873
+46288|null|inne|Brak paliwa|691
+46308|null|incydent na pokladzie|Agresywny pasazer|328
+46338|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|49
+46342|null|incydent na pokladzie|Agresywny pasazer|1072
+46344|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|304
+46348|4409|awaria samolotu|Sprawdź raport awarii|881
+46409|null|zle warunki pogodowe|Mgla nad lotniskiem|23
+46421|null|inne|Brak zgody od kontrolera|461
+46428|null|inne|Niebezpieczny bagaz|283
+46455|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|473
+46460|null|inne|Awaria oswietlenia na lotnisku|595
+46603|4756|awaria samolotu|Sprawdź raport awarii|925
+46638|null|incydent na pokladzie|Pijani pasazerowie|39
+46667|null|inne|Brak paliwa|553
+46704|null|inne|Spozniona zaloga lotnicza|60
+46722|null|inne|Oczekiwanie na inny lot|653
+46763|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1017
+46852|4447|awaria samolotu|Sprawdź raport awarii|585
+46954|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|971
+47007|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|232
+47175|null|incydent na pokladzie|Inne|971
+47206|null|incydent na pokladzie|Inne|693
+47252|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|813
+47253|null|inne|Inne|928
+47283|null|zle warunki pogodowe|Huragan w okolicy lotniska|343
+47305|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|700
+47311|null|inne|Problemy prawne|486
+47356|null|inne|Problemy prawne|379
+47464|null|inne|Problemy prawne|331
+47635|null|inne|Zagrozenie na lotnisku startowym|377
+47640|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1116
+47650|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|503
+47776|null|incydent na pokladzie|Agresywny pasazer|596
+47815|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|584
+47865|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|559
+47904|4533|awaria samolotu|Sprawdź raport awarii|72
+47925|null|incydent na pokladzie|Inne|319
+47935|null|zle warunki pogodowe|Burza na trasie|385
+47966|null|zle warunki pogodowe|Geste chmury nad lotniskiem|331
+47992|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|42
+47999|null|inne|Zagrozenie na lotnisku startowym|747
+48240|null|zle warunki pogodowe|Lod na pasie startowym|898
+48276|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|268
+48404|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|883
+48500|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|402
+48511|null|incydent na pokladzie|Terrorysta na pokladzie|570
+48526|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|50
+48610|null|incydent na pokladzie|Pijani pasazerowie|212
+48681|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|671
+48720|null|zle warunki pogodowe|Geste chmury nad lotniskiem|188
+48777|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|409
+48898|null|inne|Niebezpieczny bagaz|123
+48908|null|incydent na pokladzie|Agresywny pasazer|420
+49166|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1176
+49180|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|629
+49198|null|incydent na pokladzie|Bijatyka na pokladzie|802
+49244|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|326
+49250|null|incydent na pokladzie|Bijatyka na pokladzie|694
+49289|null|zle warunki pogodowe|Huragan w okolicy lotniska|686
+49290|null|incydent na pokladzie|Problemy zdrowotne pasazera|1131
+49291|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|460
+49362|null|inne|Zagrozenie na lotnisku startowym|1170
+49375|null|incydent na pokladzie|Bijatyka na pokladzie|32
+49421|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|905
+49446|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|1068
+49453|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|312
+49488|null|zle warunki pogodowe|Mgla nad lotniskiem|1188
+49517|null|zle warunki pogodowe|Burza na trasie|18
+49563|4521|awaria samolotu|Sprawdź raport awarii|942
+49678|null|zle warunki pogodowe|Huragan w okolicy lotniska|340
+49715|null|inne|Zagrozenie na lotnisku startowym|652
+49773|null|inne|Brak zgody od kontrolera|462
+49806|null|zle warunki pogodowe|Lod na pasie startowym|276
+49920|null|incydent na pokladzie|Pijani pasazerowie|1088
+49951|null|incydent na pokladzie|Bijatyka na pokladzie|56
+49963|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|423
+49968|null|inne|Zajety pas przez inny samolot|739
+50227|4589|awaria samolotu|Sprawdź raport awarii|149
+50280|null|inne|Spozniona zaloga lotnicza|1052
+50379|null|inne|Awaria oswietlenia na lotnisku|608
+50430|null|incydent na pokladzie|Terrorysta na pokladzie|532
+50489|null|inne|Problemy prawne|1145
+50517|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|106
+50567|null|zle warunki pogodowe|Burza na trasie|879
+50586|null|incydent na pokladzie|Agresywny pasazer|176
+50589|null|zle warunki pogodowe|Geste chmury nad lotniskiem|189
+50679|null|incydent na pokladzie|Inne|102
+50701|null|inne|Uszkodzony sprzet lotniskowy|698
+50706|null|incydent na pokladzie|Terrorysta na pokladzie|773
+50774|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|414
+50781|null|incydent na pokladzie|Problemy zdrowotne pasazera|582
+50808|null|inne|Oczekiwanie na inny lot|565
+50865|null|incydent na pokladzie|Problemy zdrowotne pasazera|8
+50866|null|inne|Brak uprawnien zalogi|799
+51073|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|306
+51096|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|331
+51163|5157|awaria samolotu|Sprawdź raport awarii|875
+51171|null|inne|Oczekiwanie na inny lot|1193
+51203|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|438
+51263|null|inne|Zajety pas przez inny samolot|100
+51286|null|zle warunki pogodowe|Huragan w okolicy lotniska|740
+51287|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|921
+51331|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|402
+51415|5052|awaria samolotu|Sprawdź raport awarii|641
+51450|null|inne|Brak paliwa|568
+51452|null|inne|Brak uprawnien zalogi|933
+51457|null|zle warunki pogodowe|Burza na trasie|143
+51474|null|zle warunki pogodowe|Lod na pasie startowym|127
+51505|null|zle warunki pogodowe|Lod na pasie startowym|678
+51565|null|incydent na pokladzie|Agresywny pasazer|771
+51695|null|inne|Spozniona zaloga lotnicza|672
+51697|null|incydent na pokladzie|Pijani pasazerowie|1159
+51740|null|zle warunki pogodowe|Geste chmury nad lotniskiem|11
+51787|null|zle warunki pogodowe|Geste chmury nad lotniskiem|372
+51822|null|inne|Oczekiwanie na inny lot|181
+51852|4679|awaria samolotu|Sprawdź raport awarii|145
+51868|null|incydent na pokladzie|Inne|842
+52010|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|251
+52037|null|zle warunki pogodowe|Huragan w okolicy lotniska|411
+52058|4905|awaria samolotu|Sprawdź raport awarii|76
+52165|5026|awaria samolotu|Sprawdź raport awarii|1185
+52179|null|inne|Awaria oswietlenia na lotnisku|86
+52228|null|inne|Inne|1195
+52250|null|zle warunki pogodowe|Lod na pasie startowym|607
+52255|null|zle warunki pogodowe|Lod na pasie startowym|843
+52309|null|zle warunki pogodowe|Burza na trasie|963
+52324|null|zle warunki pogodowe|Lod na pasie startowym|1097
+52391|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|466
+52416|null|inne|Awaria oswietlenia na lotnisku|160
+52497|null|zle warunki pogodowe|Geste chmury nad lotniskiem|156
+52521|null|inne|Pozar na lotnisku|774
+52524|null|zle warunki pogodowe|Mgla nad lotniskiem|1094
+52540|4722|awaria samolotu|Sprawdź raport awarii|35
+52601|null|inne|Pozar na lotnisku|577
+52648|4668|awaria samolotu|Sprawdź raport awarii|617
+52649|null|inne|Zajety pas przez inny samolot|135
+52713|null|zle warunki pogodowe|Burza na trasie|453
+52715|null|inne|Inne|754
+52778|null|zle warunki pogodowe|Burza na trasie|259
+52848|null|zle warunki pogodowe|Mgla nad lotniskiem|1081
+52857|4769|awaria samolotu|Sprawdź raport awarii|320
+52906|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|460
+52953|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1165
+52969|null|inne|Problemy prawne|753
+52981|null|inne|Brak zgody od kontrolera|1147
+53069|null|zle warunki pogodowe|Lod na pasie startowym|368
+53266|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|127
+53273|5287|awaria samolotu|Sprawdź raport awarii|457
+53376|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|258
+53422|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|480
+53479|null|incydent na pokladzie|Pijani pasazerowie|1175
+53531|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1147
+53550|null|incydent na pokladzie|Terrorysta na pokladzie|512
+53552|null|zle warunki pogodowe|Mgla nad lotniskiem|555
+53578|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1184
+53597|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|454
+53607|null|inne|Brak uprawnien zalogi|776
+53612|null|incydent na pokladzie|Pijani pasazerowie|949
+53772|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|835
+53824|4870|awaria samolotu|Sprawdź raport awarii|735
+53854|null|inne|Niebezpieczny bagaz|1021
+53882|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|172
+53913|null|incydent na pokladzie|Problemy zdrowotne pasazera|141
+53940|null|inne|Awaria oswietlenia na lotnisku|192
+53991|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1194
+54018|null|inne|Inne|109
+54038|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1159
+54060|null|inne|Brak paliwa|681
+54088|null|zle warunki pogodowe|Mgla nad lotniskiem|392
+54128|null|inne|Oczekiwanie na inny lot|124
+54169|null|inne|Brak zgody od kontrolera|156
+54400|null|inne|Brak uprawnien zalogi|277
+54442|null|inne|Pozar na lotnisku|845
+54452|null|inne|Pozar na lotnisku|1034
+54613|4768|awaria samolotu|Sprawdź raport awarii|969
+54749|null|incydent na pokladzie|Inne|1195
+54923|null|inne|Uszkodzony sprzet lotniskowy|684
+55001|null|incydent na pokladzie|Inne|1108
+55103|null|incydent na pokladzie|Inne|194
+55179|null|inne|Problemy prawne|155
+55396|null|inne|Pozar na lotnisku|1156
+55446|null|inne|Spozniona zaloga lotnicza|97
+55492|null|zle warunki pogodowe|Geste chmury nad lotniskiem|923
+55551|null|inne|Pozar na lotnisku|512
+55619|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|153
+55647|null|inne|Spozniona zaloga lotnicza|857
+55705|4822|awaria samolotu|Sprawdź raport awarii|400
+55752|null|incydent na pokladzie|Agresywny pasazer|1196
+55793|null|zle warunki pogodowe|Geste chmury nad lotniskiem|271
+55799|null|inne|Brak uprawnien zalogi|79
+55801|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1199
+55823|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|578
+55846|null|inne|Niebezpieczny bagaz|311
+55911|4815|awaria samolotu|Sprawdź raport awarii|429
+55924|null|zle warunki pogodowe|Mgla nad lotniskiem|908
+55987|null|inne|Uszkodzony sprzet lotniskowy|746
+56175|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|994
+56344|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|839
+56476|null|inne|Niebezpieczny bagaz|465
+56481|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|411
+56493|null|inne|Pozar na lotnisku|840
+56554|null|inne|Brak paliwa|276
+56566|null|incydent na pokladzie|Problemy zdrowotne pasazera|383
+56659|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|754
+56717|5082|awaria samolotu|Sprawdź raport awarii|467
+56802|null|inne|Spozniona zaloga lotnicza|1187
+56889|null|inne|Pozar na lotnisku|689
+56911|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|265
+56935|null|zle warunki pogodowe|Lod na pasie startowym|165
+56973|4855|awaria samolotu|Sprawdź raport awarii|250
+57003|null|inne|Niebezpieczny bagaz|943
+57005|null|zle warunki pogodowe|Geste chmury nad lotniskiem|302
+57096|4909|awaria samolotu|Sprawdź raport awarii|335
+57103|null|incydent na pokladzie|Terrorysta na pokladzie|374
+57149|null|incydent na pokladzie|Agresywny pasazer|81
+57154|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|735
+57167|null|inne|Pozar na lotnisku|149
+57258|5023|awaria samolotu|Sprawdź raport awarii|1122
+57298|null|zle warunki pogodowe|Huragan w okolicy lotniska|488
+57310|4874|awaria samolotu|Sprawdź raport awarii|21
+57311|null|inne|Problemy prawne|1084
+57510|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|855
+57554|null|inne|Zajety pas przez inny samolot|455
+57580|5011|awaria samolotu|Sprawdź raport awarii|298
+57725|null|inne|Niebezpieczny bagaz|1198
+57750|null|zle warunki pogodowe|Lod na pasie startowym|1196
+57770|null|zle warunki pogodowe|Geste chmury nad lotniskiem|845
+57875|5140|awaria samolotu|Sprawdź raport awarii|873
+57957|null|inne|Brak uprawnien zalogi|199
+58044|null|incydent na pokladzie|Terrorysta na pokladzie|55
+58052|null|zle warunki pogodowe|Mgla nad lotniskiem|571
+58115|null|inne|Zajety pas przez inny samolot|714
+58227|null|zle warunki pogodowe|Huragan w okolicy lotniska|825
+58231|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|607
+58291|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|580
+58308|null|inne|Pozar na lotnisku|905
+58314|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|440
+58344|null|incydent na pokladzie|Pijani pasazerowie|50
+58350|null|zle warunki pogodowe|Lod na pasie startowym|717
+58377|null|incydent na pokladzie|Pijani pasazerowie|710
+58378|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|801
+58439|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|388
+58445|null|zle warunki pogodowe|Burza na trasie|277
+58490|5151|awaria samolotu|Sprawdź raport awarii|726
+58496|null|incydent na pokladzie|Agresywny pasazer|370
+58542|null|inne|Brak uprawnien zalogi|1170
+58568|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|232
+58583|null|zle warunki pogodowe|Mgla nad lotniskiem|369
+58609|4879|awaria samolotu|Sprawdź raport awarii|599
+58720|null|inne|Problemy prawne|803
+58725|null|inne|Brak uprawnien zalogi|1149
+58727|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|423
+58755|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|780
+58839|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|104
+58850|null|inne|Oczekiwanie na inny lot|967
+58863|null|inne|Brak zgody od kontrolera|62
+58886|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|158
+59136|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1098
+59226|null|incydent na pokladzie|Agresywny pasazer|689
+59319|null|inne|Brak zgody od kontrolera|50
+59366|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|263
+59374|null|incydent na pokladzie|Agresywny pasazer|9
+59456|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1122
+59514|null|inne|Oczekiwanie na inny lot|1031
+59594|4915|awaria samolotu|Sprawdź raport awarii|389
+59601|5608|awaria samolotu|Sprawdź raport awarii|1034
+59632|null|zle warunki pogodowe|Burza na trasie|835
+60017|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|884
+60034|5232|awaria samolotu|Sprawdź raport awarii|237
+60109|null|incydent na pokladzie|Inne|40
+60112|4969|awaria samolotu|Sprawdź raport awarii|166
+60146|null|zle warunki pogodowe|Burza na trasie|1136
+60175|null|inne|Awaria oswietlenia na lotnisku|277
+60177|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|592
+60330|5255|awaria samolotu|Sprawdź raport awarii|41
+60399|null|incydent na pokladzie|Problemy zdrowotne pasazera|392
+60441|null|inne|Zajety pas przez inny samolot|814
+60580|5385|awaria samolotu|Sprawdź raport awarii|43
+60609|5141|awaria samolotu|Sprawdź raport awarii|57
+60661|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|680
+60710|null|inne|Uszkodzony sprzet lotniskowy|1128
+60775|null|zle warunki pogodowe|Burza na trasie|328
+60876|null|incydent na pokladzie|Inne|1115
+61019|null|inne|Brak paliwa|1134
+61126|null|zle warunki pogodowe|Burza na trasie|642
+61170|null|inne|Brak uprawnien zalogi|377
+61303|null|inne|Zajety pas przez inny samolot|19
+61310|null|inne|Brak paliwa|570
+61312|null|incydent na pokladzie|Terrorysta na pokladzie|386
+61356|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|276
+61461|null|inne|Spozniona zaloga lotnicza|137
+61468|null|zle warunki pogodowe|Lod na pasie startowym|632
+61494|null|inne|Spozniona zaloga lotnicza|111
+61511|null|inne|Brak uprawnien zalogi|298
+61550|null|inne|Brak paliwa|747
+61591|null|inne|Zajety pas przez inny samolot|99
+61690|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|237
+61798|null|inne|Awaria oswietlenia na lotnisku|906
+61879|5092|awaria samolotu|Sprawdź raport awarii|1185
+61998|null|zle warunki pogodowe|Burza na trasie|808
+62078|null|inne|Brak uprawnien zalogi|14
+62112|null|inne|Inne|611
+62144|5158|awaria samolotu|Sprawdź raport awarii|877
+62271|null|inne|Brak paliwa|525
+62333|null|zle warunki pogodowe|Mgla nad lotniskiem|762
+62423|null|inne|Awaria oswietlenia na lotnisku|262
+62440|null|incydent na pokladzie|Bijatyka na pokladzie|1199
+62466|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|801
+62470|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1021
+62497|null|inne|Awaria oswietlenia na lotnisku|215
+62680|null|inne|Zajety pas przez inny samolot|160
+62763|null|inne|Brak zgody od kontrolera|762
+62810|null|incydent na pokladzie|Problemy zdrowotne pasazera|455
+62834|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|205
+62844|null|inne|Brak paliwa|803
+62899|null|zle warunki pogodowe|Burza na trasie|342
+62904|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|387
+63028|null|zle warunki pogodowe|Huragan w okolicy lotniska|23
+63053|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|331
+63058|5294|awaria samolotu|Sprawdź raport awarii|1187
+63090|null|inne|Spozniona zaloga lotnicza|1190
+63094|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1072
+63123|null|inne|Awaria oswietlenia na lotnisku|81
+63149|5477|awaria samolotu|Sprawdź raport awarii|551
+63193|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1051
+63289|null|incydent na pokladzie|Inne|635
+63339|5074|awaria samolotu|Sprawdź raport awarii|429
+63352|5182|awaria samolotu|Sprawdź raport awarii|30
+63372|null|incydent na pokladzie|Problemy zdrowotne pasazera|992
+63375|6202|awaria samolotu|Sprawdź raport awarii|642
+63450|null|inne|Zagrozenie na lotnisku startowym|1102
+63462|null|incydent na pokladzie|Inne|939
+63508|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1010
+63528|null|incydent na pokladzie|Bijatyka na pokladzie|413
+63571|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|302
+63616|null|inne|Problemy prawne|59
+63625|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|813
+63646|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1101
+63739|null|inne|Brak zgody od kontrolera|929
+63855|null|inne|Problemy prawne|478
+63887|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|563
+63976|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|548
+64048|null|zle warunki pogodowe|Burza na trasie|8
+64069|null|inne|Niebezpieczny bagaz|1040
+64163|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|293
+64278|null|zle warunki pogodowe|Huragan w okolicy lotniska|674
+64340|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|651
+64364|null|inne|Brak uprawnien zalogi|1111
+64534|null|inne|Awaria oswietlenia na lotnisku|831
+64579|null|incydent na pokladzie|Terrorysta na pokladzie|765
+64649|null|inne|Zagrozenie na lotnisku startowym|370
+64662|null|inne|Inne|1134
+64686|null|inne|Brak zgody od kontrolera|909
+64746|null|incydent na pokladzie|Inne|415
+64855|null|inne|Awaria oswietlenia na lotnisku|225
+64992|null|inne|Awaria oswietlenia na lotnisku|946
+65030|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|567
+65074|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|434
+65154|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|144
+65164|5372|awaria samolotu|Sprawdź raport awarii|310
+65247|null|inne|Pozar na lotnisku|812
+65304|null|inne|Oczekiwanie na inny lot|946
+65311|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|400
+65317|null|inne|Oczekiwanie na inny lot|645
+65323|null|inne|Brak zgody od kontrolera|1072
+65444|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1071
+65480|null|inne|Awaria oswietlenia na lotnisku|809
+65499|null|inne|Uszkodzony sprzet lotniskowy|250
+65508|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|1001
+65512|null|incydent na pokladzie|Bijatyka na pokladzie|405
+65532|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|476
+65614|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1136
+65634|null|zle warunki pogodowe|Geste chmury nad lotniskiem|268
+65671|null|inne|Spozniona zaloga lotnicza|1046
+65728|null|incydent na pokladzie|Agresywny pasazer|196
+65896|null|inne|Inne|973
+65926|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|523
+65940|null|incydent na pokladzie|Agresywny pasazer|560
+65991|5114|awaria samolotu|Sprawdź raport awarii|338
+66260|null|inne|Oczekiwanie na inny lot|272
+66330|null|incydent na pokladzie|Terrorysta na pokladzie|807
+66398|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|747
+66413|null|inne|Pozar na lotnisku|1098
+66415|null|incydent na pokladzie|Pijani pasazerowie|117
+66626|null|zle warunki pogodowe|Huragan w okolicy lotniska|1029
+66716|null|inne|Zajety pas przez inny samolot|682
+66731|null|inne|Spozniona zaloga lotnicza|854
+66737|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|604
+66759|null|incydent na pokladzie|Inne|272
+66797|null|zle warunki pogodowe|Geste chmury nad lotniskiem|602
+66813|null|incydent na pokladzie|Inne|32
+66826|null|zle warunki pogodowe|Lod na pasie startowym|611
+66838|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|263
+66968|null|zle warunki pogodowe|Lod na pasie startowym|425
+67017|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|698
+67120|null|zle warunki pogodowe|Huragan w okolicy lotniska|10
+67173|null|zle warunki pogodowe|Lod na pasie startowym|813
+67221|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1010
+67222|null|inne|Zajety pas przez inny samolot|1101
+67247|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1166
+67307|5127|awaria samolotu|Sprawdź raport awarii|157
+67367|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1147
+67381|null|zle warunki pogodowe|Lod na pasie startowym|85
+67458|null|incydent na pokladzie|Terrorysta na pokladzie|212
+67481|5307|awaria samolotu|Sprawdź raport awarii|664
+67575|null|zle warunki pogodowe|Mgla nad lotniskiem|410
+67624|null|inne|Uszkodzony sprzet lotniskowy|650
+67631|5155|awaria samolotu|Sprawdź raport awarii|334
+67695|null|inne|Brak paliwa|914
+67787|null|inne|Problemy prawne|954
+67842|null|inne|Zagrozenie na lotnisku startowym|879
+67888|null|incydent na pokladzie|Inne|894
+67902|6029|awaria samolotu|Sprawdź raport awarii|676
+67948|5537|awaria samolotu|Sprawdź raport awarii|435
+67949|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|752
+67952|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|211
+67990|null|incydent na pokladzie|Bijatyka na pokladzie|702
+68000|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|653
+68066|null|inne|Inne|768
+68067|null|inne|Uszkodzony sprzet lotniskowy|1158
+68099|null|inne|Awaria oswietlenia na lotnisku|983
+68158|null|zle warunki pogodowe|Geste chmury nad lotniskiem|203
+68173|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|647
+68177|null|incydent na pokladzie|Inne|334
+68211|null|incydent na pokladzie|Pijani pasazerowie|334
+68237|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1141
+68284|null|inne|Awaria oswietlenia na lotnisku|807
+68316|null|inne|Awaria oswietlenia na lotnisku|67
+68349|null|inne|Oczekiwanie na inny lot|288
+68365|null|inne|Inne|965
+68390|null|incydent na pokladzie|Bijatyka na pokladzie|746
+68439|null|incydent na pokladzie|Pijani pasazerowie|551
+68496|null|incydent na pokladzie|Inne|318
+68561|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|812
+68590|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|856
+68646|null|inne|Spozniona zaloga lotnicza|336
+68735|null|inne|Niebezpieczny bagaz|743
+68930|null|inne|Problemy prawne|562
+68985|null|inne|Inne|717
+69022|5322|awaria samolotu|Sprawdź raport awarii|144
+69026|null|inne|Problemy prawne|74
+69062|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|776
+69172|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|831
+69201|null|incydent na pokladzie|Terrorysta na pokladzie|913
+69226|null|inne|Oczekiwanie na inny lot|1163
+69248|null|inne|Zagrozenie na lotnisku startowym|47
+69266|null|inne|Brak zgody od kontrolera|563
+69327|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|611
+69462|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|905
+69489|null|inne|Pozar na lotnisku|1106
+69537|5371|awaria samolotu|Sprawdź raport awarii|350
+69562|null|inne|Spozniona zaloga lotnicza|950
+69580|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|456
+69638|null|zle warunki pogodowe|Geste chmury nad lotniskiem|157
+69674|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1136
+69722|null|inne|Zagrozenie na lotnisku startowym|124
+69735|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|288
+69755|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|486
+69815|5229|awaria samolotu|Sprawdź raport awarii|429
+69908|null|inne|Oczekiwanie na inny lot|1066
+69913|6011|awaria samolotu|Sprawdź raport awarii|301
+70023|null|incydent na pokladzie|Problemy zdrowotne pasazera|628
+70167|null|inne|Pozar na lotnisku|299
+70211|null|inne|Brak zgody od kontrolera|613
+70271|null|zle warunki pogodowe|Mgla nad lotniskiem|468
+70272|null|zle warunki pogodowe|Burza na trasie|962
+70329|null|zle warunki pogodowe|Geste chmury nad lotniskiem|619
+70344|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1087
+70432|null|inne|Oczekiwanie na inny lot|1138
+70475|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|848
+70521|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|244
+70529|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|910
+70535|5826|awaria samolotu|Sprawdź raport awarii|266
+70583|null|incydent na pokladzie|Bijatyka na pokladzie|250
+70600|null|inne|Uszkodzony sprzet lotniskowy|451
+70736|null|incydent na pokladzie|Pijani pasazerowie|1128
+70821|null|incydent na pokladzie|Problemy zdrowotne pasazera|1195
+70868|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|829
+70898|null|inne|Oczekiwanie na inny lot|353
+70957|null|incydent na pokladzie|Inne|107
+71030|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|291
+71142|null|inne|Spozniona zaloga lotnicza|181
+71154|5266|awaria samolotu|Sprawdź raport awarii|1116
+71184|null|incydent na pokladzie|Problemy zdrowotne pasazera|644
+71193|null|incydent na pokladzie|Agresywny pasazer|871
+71224|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|243
+71249|null|inne|Uszkodzony sprzet lotniskowy|343
+71263|null|incydent na pokladzie|Bijatyka na pokladzie|1032
+71340|null|incydent na pokladzie|Bijatyka na pokladzie|292
+71513|5411|awaria samolotu|Sprawdź raport awarii|54
+71561|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|356
+71574|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1132
+71631|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|968
+71647|null|zle warunki pogodowe|Lod na pasie startowym|1039
+71653|null|zle warunki pogodowe|Mgla nad lotniskiem|1009
+71751|null|inne|Awaria oswietlenia na lotnisku|664
+71800|null|inne|Uszkodzony sprzet lotniskowy|650
+71861|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|982
+71866|5749|awaria samolotu|Sprawdź raport awarii|380
+71955|null|zle warunki pogodowe|Burza na trasie|401
+71989|null|inne|Niebezpieczny bagaz|387
+72005|null|inne|Brak uprawnien zalogi|94
+72057|null|zle warunki pogodowe|Geste chmury nad lotniskiem|867
+72098|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|686
+72216|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|531
+72266|null|inne|Pozar na lotnisku|258
+72361|5536|awaria samolotu|Sprawdź raport awarii|33
+72372|null|inne|Niebezpieczny bagaz|613
+72384|null|inne|Zajety pas przez inny samolot|910
+72477|null|inne|Problemy prawne|206
+72531|null|incydent na pokladzie|Terrorysta na pokladzie|279
+72536|null|incydent na pokladzie|Terrorysta na pokladzie|58
+72565|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|604
+72680|null|inne|Problemy prawne|81
+72730|null|inne|Uszkodzony sprzet lotniskowy|764
+72764|null|zle warunki pogodowe|Huragan w okolicy lotniska|461
+72802|null|inne|Brak uprawnien zalogi|579
+72864|null|incydent na pokladzie|Terrorysta na pokladzie|845
+72870|null|incydent na pokladzie|Bijatyka na pokladzie|793
+72912|5541|awaria samolotu|Sprawdź raport awarii|276
+72936|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1095
+73047|null|incydent na pokladzie|Agresywny pasazer|123
+73161|null|inne|Inne|591
+73169|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|250
+73254|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1007
+73286|null|inne|Pozar na lotnisku|471
+73325|null|inne|Awaria oswietlenia na lotnisku|1119
+73346|5372|awaria samolotu|Sprawdź raport awarii|1149
+73370|6421|awaria samolotu|Sprawdź raport awarii|301
+73404|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|758
+73411|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|572
+73547|null|inne|Brak paliwa|52
+73553|5346|awaria samolotu|Sprawdź raport awarii|366
+73563|null|inne|Zajety pas przez inny samolot|16
+73802|null|inne|Zagrozenie na lotnisku startowym|767
+73807|null|inne|Niebezpieczny bagaz|1019
+73905|null|inne|Uszkodzony sprzet lotniskowy|383
+74073|null|inne|Uszkodzony sprzet lotniskowy|885
+74225|null|inne|Oczekiwanie na inny lot|552
+74228|null|incydent na pokladzie|Inne|361
+74370|null|inne|Zajety pas przez inny samolot|603
+74392|null|inne|Oczekiwanie na inny lot|48
+74582|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|437
+74732|null|inne|Niebezpieczny bagaz|930
+74776|null|incydent na pokladzie|Terrorysta na pokladzie|1062
+74830|null|incydent na pokladzie|Inne|996
+74859|5386|awaria samolotu|Sprawdź raport awarii|970
+74967|null|inne|Oczekiwanie na inny lot|297
+75020|null|incydent na pokladzie|Terrorysta na pokladzie|1109
+75066|null|inne|Brak paliwa|410
+75125|null|zle warunki pogodowe|Mgla nad lotniskiem|1078
+75297|null|inne|Zajety pas przez inny samolot|1056
+75300|null|inne|Brak zgody od kontrolera|607
+75312|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|233
+75318|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1128
+75337|null|inne|Zagrozenie na lotnisku startowym|164
+75367|null|inne|Oczekiwanie na inny lot|908
+75415|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|17
+75440|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|309
+75498|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|721
+75588|5573|awaria samolotu|Sprawdź raport awarii|334
+75711|null|incydent na pokladzie|Agresywny pasazer|866
+75804|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1189
+75829|6763|awaria samolotu|Sprawdź raport awarii|1150
+75921|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|788
+76138|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|924
+76149|null|incydent na pokladzie|Pijani pasazerowie|699
+76547|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|680
+76670|null|incydent na pokladzie|Terrorysta na pokladzie|935
+76744|null|inne|Uszkodzony sprzet lotniskowy|951
+76814|5539|awaria samolotu|Sprawdź raport awarii|924
+76855|5517|awaria samolotu|Sprawdź raport awarii|973
+77007|null|inne|Pozar na lotnisku|229
+77118|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|546
+77148|null|zle warunki pogodowe|Huragan w okolicy lotniska|944
+77217|null|inne|Brak zgody od kontrolera|968
+77228|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|682
+77264|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|512
+77266|5679|awaria samolotu|Sprawdź raport awarii|446
+77338|null|incydent na pokladzie|Inne|931
+77370|null|inne|Brak uprawnien zalogi|875
+77389|6399|awaria samolotu|Sprawdź raport awarii|301
+77391|null|inne|Spozniona zaloga lotnicza|978
+77400|null|inne|Pozar na lotnisku|1103
+77412|null|inne|Oczekiwanie na inny lot|733
+77445|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|931
+77468|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|13
+77492|5569|awaria samolotu|Sprawdź raport awarii|1090
+77498|null|zle warunki pogodowe|Mgla nad lotniskiem|904
+77538|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|16
+77552|null|inne|Brak paliwa|153
+77624|null|zle warunki pogodowe|Burza na trasie|857
+77639|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|648
+77751|null|incydent na pokladzie|Terrorysta na pokladzie|1107
+77821|null|inne|Pozar na lotnisku|1191
+77850|null|inne|Awaria oswietlenia na lotnisku|877
+77887|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|416
+77888|5974|awaria samolotu|Sprawdź raport awarii|591
+77959|null|zle warunki pogodowe|Geste chmury nad lotniskiem|563
+78005|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|375
+78125|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|990
+78158|null|incydent na pokladzie|Agresywny pasazer|958
+78362|null|inne|Zagrozenie na lotnisku startowym|67
+78456|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|98
+78492|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|258
+78704|null|inne|Uszkodzony sprzet lotniskowy|435
+78775|5745|awaria samolotu|Sprawdź raport awarii|573
+78843|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|291
+78852|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|29
+78925|5644|awaria samolotu|Sprawdź raport awarii|716
+78980|null|incydent na pokladzie|Problemy zdrowotne pasazera|209
+79011|null|inne|Brak zgody od kontrolera|647
+79147|6075|awaria samolotu|Sprawdź raport awarii|995
+79238|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|670
+79518|null|zle warunki pogodowe|Mgla nad lotniskiem|704
+79543|null|inne|Uszkodzony sprzet lotniskowy|777
+79647|5636|awaria samolotu|Sprawdź raport awarii|208
+79665|null|inne|Niebezpieczny bagaz|218
+79667|null|zle warunki pogodowe|Huragan w okolicy lotniska|1123
+79772|5560|awaria samolotu|Sprawdź raport awarii|249
+79815|null|zle warunki pogodowe|Geste chmury nad lotniskiem|897
+79839|null|inne|Uszkodzony sprzet lotniskowy|211
+79842|6089|awaria samolotu|Sprawdź raport awarii|12
+79890|6385|awaria samolotu|Sprawdź raport awarii|798
+79945|null|incydent na pokladzie|Bijatyka na pokladzie|524
+80009|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|937
+80020|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|838
+80109|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|963
+80125|null|inne|Brak uprawnien zalogi|580
+80197|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|820
+80282|null|inne|Pozar na lotnisku|306
+80416|null|inne|Brak paliwa|905
+80497|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1119
+80526|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1003
+80717|null|inne|Awaria oswietlenia na lotnisku|364
+80764|null|inne|Problemy prawne|249
+80768|null|zle warunki pogodowe|Lod na pasie startowym|167
+80786|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|346
+80810|null|inne|Brak uprawnien zalogi|319
+80814|null|inne|Uszkodzony sprzet lotniskowy|906
+80819|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1168
+80844|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1012
+80981|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|706
+80989|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|129
+81081|null|inne|Brak zgody od kontrolera|721
+81097|null|incydent na pokladzie|Bijatyka na pokladzie|469
+81184|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|529
+81237|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|5
+81298|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|118
+81324|null|inne|Inne|494
+81325|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|745
+81354|5953|awaria samolotu|Sprawdź raport awarii|1162
+81450|null|inne|Spozniona zaloga lotnicza|954
+81692|null|zle warunki pogodowe|Lod na pasie startowym|636
+81765|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|262
+81814|null|zle warunki pogodowe|Geste chmury nad lotniskiem|780
+81891|null|inne|Brak paliwa|870
+81928|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|333
+81956|null|inne|Brak zgody od kontrolera|357
+82021|null|zle warunki pogodowe|Huragan w okolicy lotniska|459
+82081|null|inne|Oczekiwanie na inny lot|881
+82166|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|215
+82172|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|508
+82286|null|inne|Awaria oswietlenia na lotnisku|1107
+82299|null|zle warunki pogodowe|Mgla nad lotniskiem|575
+82372|null|inne|Zagrozenie na lotnisku startowym|624
+82377|null|inne|Uszkodzony sprzet lotniskowy|1130
+82510|null|inne|Brak paliwa|711
+82608|null|zle warunki pogodowe|Burza na trasie|580
+82630|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|615
+82643|null|incydent na pokladzie|Terrorysta na pokladzie|512
+82675|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|465
+82725|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|713
+82775|null|inne|Awaria oswietlenia na lotnisku|739
+82787|null|incydent na pokladzie|Inne|669
+82833|null|inne|Zagrozenie na lotnisku startowym|706
+82933|null|incydent na pokladzie|Inne|3
+82971|6059|awaria samolotu|Sprawdź raport awarii|1151
+83072|null|zle warunki pogodowe|Burza na trasie|728
+83088|null|incydent na pokladzie|Agresywny pasazer|471
+83141|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|184
+83153|6707|awaria samolotu|Sprawdź raport awarii|1007
+83204|null|incydent na pokladzie|Problemy zdrowotne pasazera|501
+83212|null|inne|Niebezpieczny bagaz|53
+83348|null|inne|Brak uprawnien zalogi|62
+83608|null|incydent na pokladzie|Pijani pasazerowie|1124
+83721|null|inne|Brak uprawnien zalogi|240
+83781|null|inne|Spozniona zaloga lotnicza|647
+83890|null|incydent na pokladzie|Pijani pasazerowie|1152
+83893|5807|awaria samolotu|Sprawdź raport awarii|219
+83986|null|incydent na pokladzie|Problemy zdrowotne pasazera|949
+84114|null|incydent na pokladzie|Agresywny pasazer|1146
+84134|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|693
+84237|null|inne|Uszkodzony sprzet lotniskowy|1154
+84392|null|incydent na pokladzie|Inne|555
+84567|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|342
+84617|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|533
+84629|null|incydent na pokladzie|Terrorysta na pokladzie|529
+84646|6022|awaria samolotu|Sprawdź raport awarii|80
+84704|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|457
+84825|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|988
+84845|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|131
+84936|null|inne|Zajety pas przez inny samolot|372
+85102|null|inne|Oczekiwanie na inny lot|734
+85115|null|zle warunki pogodowe|Burza na trasie|245
+85118|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|759
+85135|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|470
+85155|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|713
+85159|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|844
+85182|6177|awaria samolotu|Sprawdź raport awarii|841
+85186|null|inne|Awaria oswietlenia na lotnisku|1089
+85274|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|134
+85379|null|inne|Brak zgody od kontrolera|227
+85407|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|3
+85505|6290|awaria samolotu|Sprawdź raport awarii|446
+85517|null|zle warunki pogodowe|Geste chmury nad lotniskiem|216
+85532|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|55
+85553|null|zle warunki pogodowe|Huragan w okolicy lotniska|1014
+85638|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|614
+85745|null|zle warunki pogodowe|Burza na trasie|1165
+85807|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|747
+85886|null|incydent na pokladzie|Inne|446
+85942|null|inne|Brak zgody od kontrolera|1165
+85990|null|inne|Problemy prawne|313
+86087|null|zle warunki pogodowe|Mgla nad lotniskiem|762
+86119|null|zle warunki pogodowe|Lod na pasie startowym|122
+86139|6877|awaria samolotu|Sprawdź raport awarii|235
+86201|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|690
+86333|5908|awaria samolotu|Sprawdź raport awarii|530
+86378|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|643
+86405|null|zle warunki pogodowe|Burza na trasie|746
+86413|6025|awaria samolotu|Sprawdź raport awarii|1095
+86504|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|619
+86539|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|673
+86552|null|zle warunki pogodowe|Lod na pasie startowym|449
+86600|6626|awaria samolotu|Sprawdź raport awarii|599
+86609|null|inne|Uszkodzony sprzet lotniskowy|741
+86730|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|7
+86755|null|zle warunki pogodowe|Geste chmury nad lotniskiem|101
+86800|null|zle warunki pogodowe|Huragan w okolicy lotniska|1121
+86921|null|inne|Zagrozenie na lotnisku startowym|862
+86968|null|inne|Zagrozenie na lotnisku startowym|229
+86974|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|786
+87065|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1020
+87081|null|incydent na pokladzie|Bijatyka na pokladzie|600
+87210|null|inne|Niebezpieczny bagaz|941
+87260|6019|awaria samolotu|Sprawdź raport awarii|331
+87349|null|inne|Brak zgody od kontrolera|212
+87387|null|inne|Spozniona zaloga lotnicza|1104
+87420|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|948
+87663|6089|awaria samolotu|Sprawdź raport awarii|1142
+87671|null|zle warunki pogodowe|Lod na pasie startowym|460
+87690|null|incydent na pokladzie|Agresywny pasazer|1042
+87762|null|zle warunki pogodowe|Lod na pasie startowym|283
+87800|null|zle warunki pogodowe|Burza na trasie|73
+87817|null|inne|Niebezpieczny bagaz|1054
+87840|null|incydent na pokladzie|Agresywny pasazer|232
+87845|null|inne|Uszkodzony sprzet lotniskowy|692
+87898|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|991
+87903|null|inne|Niebezpieczny bagaz|424
+88001|null|zle warunki pogodowe|Mgla nad lotniskiem|770
+88005|null|inne|Brak paliwa|575
+88006|5931|awaria samolotu|Sprawdź raport awarii|625
+88113|null|inne|Zajety pas przez inny samolot|140
+88160|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|939
+88323|null|inne|Zajety pas przez inny samolot|1132
+88341|null|incydent na pokladzie|Bijatyka na pokladzie|883
+88376|null|zle warunki pogodowe|Mgla nad lotniskiem|805
+88380|null|inne|Brak uprawnien zalogi|612
+88389|null|inne|Awaria oswietlenia na lotnisku|804
+88481|null|inne|Problemy prawne|745
+88497|null|zle warunki pogodowe|Huragan w okolicy lotniska|231
+88525|null|inne|Pozar na lotnisku|89
+88791|null|incydent na pokladzie|Pijani pasazerowie|46
+88822|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|324
+88877|null|incydent na pokladzie|Agresywny pasazer|981
+88884|null|inne|Zagrozenie na lotnisku startowym|450
+88898|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|442
+88904|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|936
+88985|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|884
+88992|null|zle warunki pogodowe|Burza na trasie|581
+88994|5970|awaria samolotu|Sprawdź raport awarii|808
+89064|null|zle warunki pogodowe|Burza na trasie|706
+89088|null|inne|Zagrozenie na lotnisku startowym|1140
+89150|null|incydent na pokladzie|Agresywny pasazer|258
+89202|null|inne|Zajety pas przez inny samolot|375
+89258|6177|awaria samolotu|Sprawdź raport awarii|691
+89286|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|548
+89348|5950|awaria samolotu|Sprawdź raport awarii|330
+89433|null|inne|Brak paliwa|1061
+89477|null|incydent na pokladzie|Terrorysta na pokladzie|255
+89535|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|460
+89554|null|inne|Inne|203
+89556|null|incydent na pokladzie|Agresywny pasazer|666
+89612|null|incydent na pokladzie|Agresywny pasazer|1004
+89617|null|inne|Pozar na lotnisku|447
+89630|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1091
+89650|null|inne|Pozar na lotnisku|392
+89849|null|inne|Brak paliwa|473
+89918|null|zle warunki pogodowe|Lod na pasie startowym|908
+89929|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1104
+90339|null|zle warunki pogodowe|Mgla nad lotniskiem|180
+90340|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1093
+90367|null|zle warunki pogodowe|Mgla nad lotniskiem|1102
+90387|null|zle warunki pogodowe|Mgla nad lotniskiem|817
+90429|null|inne|Uszkodzony sprzet lotniskowy|733
+90447|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1098
+90528|null|zle warunki pogodowe|Huragan w okolicy lotniska|652
+90572|null|incydent na pokladzie|Problemy zdrowotne pasazera|696
+90626|null|incydent na pokladzie|Agresywny pasazer|633
+90687|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|452
+90768|null|inne|Awaria oswietlenia na lotnisku|586
+90783|null|inne|Spozniona zaloga lotnicza|901
+90786|null|inne|Brak zgody od kontrolera|1021
+90848|6759|awaria samolotu|Sprawdź raport awarii|250
+90884|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|729
+90914|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1063
+90928|null|zle warunki pogodowe|Huragan w okolicy lotniska|983
+90956|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1040
+90979|null|incydent na pokladzie|Bijatyka na pokladzie|458
+91004|null|inne|Spozniona zaloga lotnicza|72
+91075|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|880
+91107|null|incydent na pokladzie|Terrorysta na pokladzie|630
+91124|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1159
+91153|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1053
+91204|null|zle warunki pogodowe|Huragan w okolicy lotniska|599
+91406|null|incydent na pokladzie|Bijatyka na pokladzie|1164
+91459|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|349
+91529|null|inne|Pozar na lotnisku|856
+91612|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|475
+91648|null|inne|Pozar na lotnisku|762
+91780|null|inne|Brak zgody od kontrolera|524
+91809|null|zle warunki pogodowe|Mgla nad lotniskiem|429
+91915|null|inne|Brak zgody od kontrolera|586
+91956|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|17
+92099|null|incydent na pokladzie|Agresywny pasazer|384
+92126|null|inne|Inne|64
+92134|null|inne|Oczekiwanie na inny lot|1007
+92168|6065|awaria samolotu|Sprawdź raport awarii|335
+92224|6314|awaria samolotu|Sprawdź raport awarii|152
+92284|null|incydent na pokladzie|Problemy zdrowotne pasazera|1097
+92407|null|zle warunki pogodowe|Mgla nad lotniskiem|153
+92675|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|652
+92771|null|incydent na pokladzie|Agresywny pasazer|165
+92847|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|718
+92939|null|incydent na pokladzie|Inne|447
+92941|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|808
+92970|null|incydent na pokladzie|Terrorysta na pokladzie|255
+92990|null|incydent na pokladzie|Inne|721
+93031|null|inne|Brak paliwa|354
+93035|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|89
+93095|null|incydent na pokladzie|Bijatyka na pokladzie|826
+93211|null|inne|Brak paliwa|79
+93218|null|inne|Zagrozenie na lotnisku startowym|0
+93314|null|zle warunki pogodowe|Geste chmury nad lotniskiem|384
+93392|null|inne|Spozniona zaloga lotnicza|908
+93412|null|incydent na pokladzie|Problemy zdrowotne pasazera|899
+93573|null|zle warunki pogodowe|Mgla nad lotniskiem|842
+93583|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|56
+93717|null|inne|Awaria oswietlenia na lotnisku|286
+93728|null|zle warunki pogodowe|Lod na pasie startowym|3
+93843|null|inne|Awaria oswietlenia na lotnisku|533
+93964|null|inne|Brak uprawnien zalogi|1079
+94072|null|incydent na pokladzie|Inne|1132
+94209|null|inne|Spozniona zaloga lotnicza|1026
+94261|null|inne|Problemy prawne|944
+94264|null|inne|Oczekiwanie na inny lot|390
+94266|null|zle warunki pogodowe|Burza na trasie|766
+94343|null|inne|Problemy prawne|1110
+94452|null|zle warunki pogodowe|Huragan w okolicy lotniska|226
+94485|null|inne|Spozniona zaloga lotnicza|1190
+94491|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|649
+94492|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|516
+94499|null|zle warunki pogodowe|Geste chmury nad lotniskiem|549
+94534|null|inne|Brak uprawnien zalogi|402
+94561|null|inne|Brak uprawnien zalogi|84
+94572|null|zle warunki pogodowe|Burza na trasie|353
+94576|null|zle warunki pogodowe|Mgla nad lotniskiem|751
+94611|null|inne|Inne|479
+94663|null|inne|Brak zgody od kontrolera|164
+94724|null|zle warunki pogodowe|Huragan w okolicy lotniska|542
+94798|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|949
+94948|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|655
+95072|null|inne|Zajety pas przez inny samolot|14
+95116|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|300
+95177|null|incydent na pokladzie|Problemy zdrowotne pasazera|597
+95223|null|inne|Problemy prawne|814
+95231|null|inne|Inne|457
+95286|null|inne|Oczekiwanie na inny lot|37
+95319|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|806
+95411|null|zle warunki pogodowe|Lod na pasie startowym|1190
+95550|null|inne|Awaria oswietlenia na lotnisku|12
+95568|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|844
+95623|null|inne|Brak uprawnien zalogi|716
+95682|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|761
+95714|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1029
+95730|null|zle warunki pogodowe|Lod na pasie startowym|82
+95759|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|577
+95797|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1040
+95835|null|inne|Uszkodzony sprzet lotniskowy|1013
+95863|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|154
+95883|null|zle warunki pogodowe|Lod na pasie startowym|747
+96025|null|inne|Zajety pas przez inny samolot|862
+96112|null|inne|Oczekiwanie na inny lot|840
+96298|null|incydent na pokladzie|Bijatyka na pokladzie|966
+96345|null|zle warunki pogodowe|Geste chmury nad lotniskiem|431
+96346|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|988
+96442|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|546
+96477|null|inne|Inne|324
+96482|null|inne|Oczekiwanie na inny lot|211
+96490|null|zle warunki pogodowe|Lod na pasie startowym|1137
+96554|null|incydent na pokladzie|Bijatyka na pokladzie|1053
+96657|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|1012
+96716|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|864
+96789|null|inne|Zajety pas przez inny samolot|1106
+96837|null|zle warunki pogodowe|Lod na pasie startowym|617
+96838|null|incydent na pokladzie|Terrorysta na pokladzie|958
+96917|null|zle warunki pogodowe|Lod na pasie startowym|524
+96950|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1027
+97032|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|214
+97051|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1035
+97085|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1139
+97146|null|incydent na pokladzie|Problemy zdrowotne pasazera|322
+97321|null|zle warunki pogodowe|Huragan w okolicy lotniska|1006
+97511|null|incydent na pokladzie|Pijani pasazerowie|814
+97521|null|incydent na pokladzie|Pijani pasazerowie|280
+97524|null|zle warunki pogodowe|Burza na trasie|1017
+97558|null|incydent na pokladzie|Problemy zdrowotne pasazera|886
+97578|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|913
+97807|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|602
+97841|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|721
+97903|6401|awaria samolotu|Sprawdź raport awarii|445
+97950|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|809
+97989|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1020
+97990|null|inne|Brak uprawnien zalogi|340
+98141|null|zle warunki pogodowe|Huragan w okolicy lotniska|779
+98181|6663|awaria samolotu|Sprawdź raport awarii|1037
+98291|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|532
+98316|null|incydent na pokladzie|Pijani pasazerowie|1160
+98321|null|incydent na pokladzie|Inne|1089
+98465|null|inne|Oczekiwanie na inny lot|388
+98480|null|zle warunki pogodowe|Geste chmury nad lotniskiem|531
+98518|null|inne|Niebezpieczny bagaz|1169
+98595|null|incydent na pokladzie|Problemy zdrowotne pasazera|476
+98609|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|677
+98617|null|zle warunki pogodowe|Burza na trasie|995
+98642|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|566
+98660|null|inne|Oczekiwanie na inny lot|547
+98673|null|incydent na pokladzie|Agresywny pasazer|32
+98689|null|inne|Oczekiwanie na inny lot|743
+98714|null|inne|Problemy prawne|342
+98717|null|inne|Uszkodzony sprzet lotniskowy|971
+98722|null|zle warunki pogodowe|Burza na trasie|839
+98791|null|inne|Inne|515
+98810|null|incydent na pokladzie|Bijatyka na pokladzie|779
+98904|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|1032
+98921|null|inne|Problemy prawne|206
+98963|null|incydent na pokladzie|Agresywny pasazer|246
+99043|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|80
+99047|null|inne|Brak paliwa|76
+99082|null|inne|Uszkodzony sprzet lotniskowy|499
+99106|null|zle warunki pogodowe|Huragan w okolicy lotniska|1114
+99113|6941|awaria samolotu|Sprawdź raport awarii|998
+99154|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|92
+99158|null|inne|Awaria oswietlenia na lotnisku|878
+99183|6780|awaria samolotu|Sprawdź raport awarii|197
+99224|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|653
+99269|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|987
+99315|null|incydent na pokladzie|Pijani pasazerowie|1135
+99350|null|zle warunki pogodowe|Lod na pasie startowym|1021
+99353|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|203
+99368|null|incydent na pokladzie|Bijatyka na pokladzie|408
+99389|null|zle warunki pogodowe|Mgla nad lotniskiem|258
+99393|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|671
+99394|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|12
+99470|null|incydent na pokladzie|Inne|974
+99514|null|incydent na pokladzie|Bijatyka na pokladzie|228
+99561|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1144
+99633|null|incydent na pokladzie|Pijani pasazerowie|388
+99642|null|incydent na pokladzie|Agresywny pasazer|814
+99718|6423|awaria samolotu|Sprawdź raport awarii|358
+99727|null|inne|Spozniona zaloga lotnicza|1117
+99743|null|incydent na pokladzie|Problemy zdrowotne pasazera|793
+99790|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|991
+99795|null|inne|Brak zgody od kontrolera|775
+99809|null|incydent na pokladzie|Pijani pasazerowie|259
+99913|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|278
+100009|null|inne|Uszkodzony sprzet lotniskowy|120
+100025|null|zle warunki pogodowe|Burza na trasie|786
+100043|null|inne|Uszkodzony sprzet lotniskowy|1175
+100066|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|341
+100070|null|incydent na pokladzie|Inne|824
+100147|null|incydent na pokladzie|Agresywny pasazer|83
+100178|null|inne|Zajety pas przez inny samolot|610
+100348|null|inne|Brak uprawnien zalogi|882
+100377|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1182
+100390|6327|awaria samolotu|Sprawdź raport awarii|667
+100458|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|741
+100466|null|inne|Brak zgody od kontrolera|1199
+100521|null|incydent na pokladzie|Problemy zdrowotne pasazera|642
+100548|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|1153
+100565|null|inne|Spozniona zaloga lotnicza|562
+100671|null|inne|Awaria oswietlenia na lotnisku|874
+100734|null|inne|Oczekiwanie na inny lot|430
+100752|null|inne|Problemy prawne|793
+100831|null|inne|Niebezpieczny bagaz|988
+100858|null|incydent na pokladzie|Terrorysta na pokladzie|932
+100941|null|zle warunki pogodowe|Huragan w okolicy lotniska|822
+101061|6482|awaria samolotu|Sprawdź raport awarii|1069
+101076|null|incydent na pokladzie|Bijatyka na pokladzie|179
+101135|6337|awaria samolotu|Sprawdź raport awarii|954
+101195|null|incydent na pokladzie|Problemy zdrowotne pasazera|707
+101247|6897|awaria samolotu|Sprawdź raport awarii|806
+101320|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|535
+101337|null|zle warunki pogodowe|Geste chmury nad lotniskiem|309
+101351|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|692
+101356|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|292
+101534|null|incydent na pokladzie|Bijatyka na pokladzie|854
+101538|null|zle warunki pogodowe|Geste chmury nad lotniskiem|20
+101550|null|inne|Pozar na lotnisku|284
+101628|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|1011
+101677|null|inne|Niebezpieczny bagaz|270
+101682|null|inne|Oczekiwanie na inny lot|56
+101736|null|inne|Uszkodzony sprzet lotniskowy|582
+101757|null|zle warunki pogodowe|Geste chmury nad lotniskiem|183
+101761|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|184
+101828|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|104
+101868|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1126
+101916|null|inne|Problemy prawne|401
+101972|6372|awaria samolotu|Sprawdź raport awarii|1006
+101977|null|incydent na pokladzie|Terrorysta na pokladzie|623
+101993|null|zle warunki pogodowe|Geste chmury nad lotniskiem|581
+102185|null|incydent na pokladzie|Agresywny pasazer|665
+102299|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|829
+102324|null|inne|Brak zgody od kontrolera|817
+102355|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|19
+102359|null|incydent na pokladzie|Inne|0
+102429|null|incydent na pokladzie|Bijatyka na pokladzie|1176
+102471|null|zle warunki pogodowe|Burza na trasie|383
+102535|null|inne|Niebezpieczny bagaz|1118
+102694|null|zle warunki pogodowe|Mgla nad lotniskiem|960
+102737|null|zle warunki pogodowe|Lod na pasie startowym|703
+102835|null|inne|Zajety pas przez inny samolot|737
+102971|6638|awaria samolotu|Sprawdź raport awarii|891
+103039|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1028
+103071|null|incydent na pokladzie|Inne|23
+103139|null|inne|Niebezpieczny bagaz|1083
+103181|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|591
+103216|null|inne|Awaria oswietlenia na lotnisku|201
+103258|null|incydent na pokladzie|Pijani pasazerowie|1053
+103294|null|inne|Brak zgody od kontrolera|49
+103375|null|inne|Zajety pas przez inny samolot|886
+103401|null|zle warunki pogodowe|Burza na trasie|375
+103530|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|263
+103545|null|zle warunki pogodowe|Geste chmury nad lotniskiem|391
+103600|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|737
+103644|null|inne|Problemy prawne|742
+103685|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|655
+103799|null|zle warunki pogodowe|Lod na pasie startowym|583
+103857|6521|awaria samolotu|Sprawdź raport awarii|1077
+103887|null|incydent na pokladzie|Terrorysta na pokladzie|317
+104030|null|inne|Inne|841
+104073|null|inne|Brak zgody od kontrolera|306
+104084|null|inne|Inne|386
+104123|null|inne|Oczekiwanie na inny lot|290
+104131|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1055
+104228|null|inne|Brak uprawnien zalogi|1175
+104234|null|zle warunki pogodowe|Lod na pasie startowym|1009
+104288|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|600
+104344|null|zle warunki pogodowe|Mgla nad lotniskiem|765
+104649|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|698
+104712|null|inne|Brak paliwa|1101
+104743|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|849
+104761|null|inne|Inne|320
+104798|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|158
+104824|null|incydent na pokladzie|Pijani pasazerowie|35
+104856|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|223
+104864|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|1100
+104906|null|incydent na pokladzie|Bijatyka na pokladzie|1047
+104973|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|88
+104996|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|892
+105067|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|295
+105075|null|incydent na pokladzie|Terrorysta na pokladzie|459
+105182|null|zle warunki pogodowe|Burza na trasie|78
+105186|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1156
+105222|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|168
+105255|null|zle warunki pogodowe|Geste chmury nad lotniskiem|837
+105269|null|incydent na pokladzie|Inne|926
+105285|null|zle warunki pogodowe|Huragan w okolicy lotniska|464
+105371|null|incydent na pokladzie|Agresywny pasazer|897
+105379|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|95
+105394|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|419
+105396|null|zle warunki pogodowe|Mgla nad lotniskiem|83
+105422|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|50
+105642|null|inne|Brak zgody od kontrolera|817
+105688|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|1112
+105819|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|992
+105836|null|zle warunki pogodowe|Geste chmury nad lotniskiem|847
+105950|null|inne|Problemy prawne|482
+105963|null|inne|Inne|165
+106077|null|incydent na pokladzie|Terrorysta na pokladzie|111
+106164|null|inne|Zajety pas przez inny samolot|822
+106203|null|incydent na pokladzie|Problemy zdrowotne pasazera|329
+106228|null|inne|Brak paliwa|1053
+106231|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|813
+106383|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|605
+106475|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|15
+106476|null|inne|Niebezpieczny bagaz|647
+106587|6559|awaria samolotu|Sprawdź raport awarii|139
+106638|null|inne|Brak uprawnien zalogi|597
+106648|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|631
+106667|null|inne|Uszkodzony sprzet lotniskowy|142
+106730|null|zle warunki pogodowe|Burza na trasie|409
+106739|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|1111
+106779|null|inne|Problemy prawne|480
+106792|null|inne|Inne|751
+106851|null|inne|Zagrozenie na lotnisku startowym|65
+106863|null|zle warunki pogodowe|Burza na trasie|732
+106949|null|inne|Spozniona zaloga lotnicza|292
+106959|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|694
+107096|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|786
+107129|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|1002
+107333|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|635
+107392|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|900
+107409|null|zle warunki pogodowe|Huragan w okolicy lotniska|494
+107486|null|inne|Problemy prawne|159
+107529|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|761
+107594|null|inne|Spozniona zaloga lotnicza|62
+107754|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|145
+107817|null|zle warunki pogodowe|Mgla nad lotniskiem|470
+107844|null|inne|Brak zgody od kontrolera|734
+107937|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|618
+107971|null|inne|Zagrozenie na lotnisku startowym|1046
+108000|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|1105
+108042|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|794
+108096|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|164
+108119|null|inne|Zajety pas przez inny samolot|294
+108137|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|1194
+108290|null|inne|Pozar na lotnisku|371
+108417|null|inne|Brak uprawnien zalogi|302
+108419|null|inne|Pozar na lotnisku|798
+108532|null|inne|Niebezpieczny bagaz|1098
+108588|null|inne|Brak zgody od kontrolera|654
+108719|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|759
+108805|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|325
+108861|null|zle warunki pogodowe|Burza na trasie|542
+108897|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|652
+108911|null|inne|Zajety pas przez inny samolot|1131
+109051|null|incydent na pokladzie|Terrorysta na pokladzie|694
+109125|null|inne|Spozniona zaloga lotnicza|319
+109269|null|incydent na pokladzie|Terrorysta na pokladzie|166
+109310|null|inne|Brak uprawnien zalogi|78
+109479|null|incydent na pokladzie|Bijatyka na pokladzie|965
+109493|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|570
+109503|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|5
+109583|null|zle warunki pogodowe|Geste chmury nad lotniskiem|503
+109700|null|inne|Zagrozenie na lotnisku startowym|1120
+109790|null|inne|Brak uprawnien zalogi|325
+109811|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|828
+109841|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|906
+109983|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|917
+110007|null|incydent na pokladzie|Pijani pasazerowie|245
+110122|null|inne|Zagrozenie na lotnisku startowym|954
+110191|null|zle warunki pogodowe|Geste chmury nad lotniskiem|448
+110205|null|zle warunki pogodowe|Burza na trasie|396
+110277|null|zle warunki pogodowe|Lod na pasie startowym|34
+110402|null|inne|Awaria oswietlenia na lotnisku|669
+110489|null|zle warunki pogodowe|Lod na pasie startowym|593
+110624|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|397
+110704|null|zle warunki pogodowe|Geste chmury nad lotniskiem|1131
+110768|null|inne|Zajety pas przez inny samolot|598
+110808|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|436
+110816|null|inne|Zagrozenie na lotnisku startowym|639
+110826|null|zle warunki pogodowe|Lod na pasie startowym|127
+110880|null|inne|Uszkodzony sprzet lotniskowy|1132
+110966|null|incydent na pokladzie|Problemy zdrowotne pasazera|105
+111000|null|inne|Zagrozenie na lotnisku startowym|61
+111049|null|zle warunki pogodowe|Huragan w okolicy lotniska|714
+111060|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1153
+111114|null|zle warunki pogodowe|Huragan w okolicy lotniska|1172
+111151|null|incydent na pokladzie|Inne|730
+111281|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|834
+111429|6796|awaria samolotu|Sprawdź raport awarii|768
+111485|null|inne|Pozar na lotnisku|822
+111534|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|627
+111568|null|inne|Inne|178
+111638|6803|awaria samolotu|Sprawdź raport awarii|345
+111691|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|305
+111748|null|incydent na pokladzie|Inne|847
+111810|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|104
+111849|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|380
+112027|null|inne|Oczekiwanie na inny lot|62
+112043|null|inne|Spozniona zaloga lotnicza|883
+112088|null|zle warunki pogodowe|Mgla nad lotniskiem|494
+112171|null|inne|Niebezpieczny bagaz|568
+112182|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|598
+112207|null|inne|Inne|441
+112209|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1180
+112319|null|incydent na pokladzie|Terrorysta na pokladzie|106
+112356|null|incydent na pokladzie|Agresywny pasazer|1124
+112410|null|incydent na pokladzie|Problemy zdrowotne pasazera|220
+112455|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|9
+112555|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|468
+112572|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|624
+112728|null|zle warunki pogodowe|Lod na pasie startowym|426
+112742|null|zle warunki pogodowe|Lod na pasie startowym|925
+112748|null|inne|Brak uprawnien zalogi|21
+112790|null|zle warunki pogodowe|Lod na pasie startowym|1038
+112792|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|302
+112806|null|inne|Oczekiwanie na inny lot|475
+113123|null|incydent na pokladzie|Pijani pasazerowie|644
+113151|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|900
+113189|null|zle warunki pogodowe|Lod na pasie startowym|192
+113262|null|zle warunki pogodowe|Mgla nad lotniskiem|627
+113389|null|incydent na pokladzie|Bijatyka na pokladzie|580
+113407|null|incydent na pokladzie|Agresywny pasazer|1158
+113419|null|inne|Brak uprawnien zalogi|515
+113431|null|inne|Brak zgody od kontrolera|737
+113444|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|707
+113555|null|inne|Problemy prawne|1060
+113578|null|incydent na pokladzie|Agresywny pasazer|823
+113610|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|351
+113648|null|inne|Awaria oswietlenia na lotnisku|1035
+113669|null|inne|Zagrozenie na lotnisku startowym|119
+113696|null|incydent na pokladzie|Pijani pasazerowie|704
+113700|null|inne|Spozniona zaloga lotnicza|175
+113716|null|inne|Brak uprawnien zalogi|605
+113790|null|inne|Uszkodzony sprzet lotniskowy|192
+113826|null|zle warunki pogodowe|Geste chmury nad lotniskiem|144
+113934|null|zle warunki pogodowe|Lod na pasie startowym|1180
+113967|null|inne|Brak zgody od kontrolera|134
+114047|null|inne|Spozniona zaloga lotnicza|173
+114144|null|zle warunki pogodowe|Geste chmury nad lotniskiem|516
+114167|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|486
+114358|null|zle warunki pogodowe|Burza na trasie|328
+114365|null|inne|Brak zgody od kontrolera|1019
+114372|null|zle warunki pogodowe|Burza na trasie|790
+114431|null|zle warunki pogodowe|Lod na pasie startowym|173
+114456|null|incydent na pokladzie|Inne|178
+114492|null|zle warunki pogodowe|Huragan w okolicy lotniska|447
+114540|null|zle warunki pogodowe|Mgla nad lotniskiem|13
+114573|null|incydent na pokladzie|Agresywny pasazer|385
+114578|null|inne|Awaria oswietlenia na lotnisku|1087
+114628|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|432
+114631|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|611
+114664|null|inne|Uszkodzony sprzet lotniskowy|30
+114695|null|inne|Uszkodzony sprzet lotniskowy|255
+114719|null|inne|Brak zgody od kontrolera|686
+114767|null|inne|Oczekiwanie na inny lot|1172
+114937|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|877
+114996|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|776
+115027|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|768
+115119|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|637
+115143|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1116
+115155|null|zle warunki pogodowe|Burza na trasie|13
+115182|null|inne|Uszkodzony sprzet lotniskowy|1051
+115214|null|inne|Problemy prawne|545
+115412|null|inne|Zajety pas przez inny samolot|522
+115432|null|incydent na pokladzie|Inne|827
+115434|null|zle warunki pogodowe|Geste chmury nad lotniskiem|942
+115486|null|inne|Oczekiwanie na inny lot|182
+115544|null|inne|Brak uprawnien zalogi|634
+115592|null|zle warunki pogodowe|Burza na trasie|108
+115604|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|368
+115643|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|854
+115653|null|inne|Spozniona zaloga lotnicza|76
+115679|6864|awaria samolotu|Sprawdź raport awarii|584
+115711|6998|awaria samolotu|Sprawdź raport awarii|776
+115819|null|zle warunki pogodowe|Burza na trasie|957
+115844|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|1186
+115851|null|inne|Oczekiwanie na inny lot|837
+115940|null|zle warunki pogodowe|Silny wiatr w okolicy lotniska|241
+115961|null|incydent na pokladzie|Problemy zdrowotne pasazera|831
+116109|null|zle warunki pogodowe|Burza na trasie|416
+116271|null|incydent na pokladzie|Terrorysta na pokladzie|583
+116389|null|inne|Brak zgody od kontrolera|278
+116437|null|inne|Spozniona zaloga lotnicza|246
+116472|null|inne|Zagrozenie na lotnisku startowym|502
+116491|null|inne|Awaria oswietlenia na lotnisku|1099
+116510|null|inne|Brak zgody od kontrolera|16
+116579|null|zle warunki pogodowe|Huragan w okolicy lotniska|545
+116661|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|120
+116680|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|939
+116758|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|140
+116813|null|zle warunki pogodowe|Huragan w okolicy lotniska|154
+116898|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|526
+116938|null|zle warunki pogodowe|Geste chmury nad lotniskiem|781
+116944|null|zle warunki pogodowe|Lod na pasie startowym|838
+116981|null|incydent na pokladzie|Agresywny pasazer|367
+117046|null|inne|Niebezpieczny bagaz|538
+117080|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|528
+117103|null|inne|Spozniona zaloga lotnicza|198
+117105|null|incydent na pokladzie|Pijani pasazerowie|402
+117115|6978|awaria samolotu|Sprawdź raport awarii|214
+117120|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1168
+117238|null|inne|Niebezpieczny bagaz|842
+117273|null|zle warunki pogodowe|Huragan w okolicy lotniska|543
+117386|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|375
+117466|null|inne|Oczekiwanie na inny lot|1043
+117544|null|inne|Problemy prawne|280
+117589|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|1129
+117645|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|382
+117658|null|inne|Niebezpieczny bagaz|117
+117729|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|159
+117735|null|incydent na pokladzie|Bijatyka na pokladzie|626
+117807|null|inne|Awaria oswietlenia na lotnisku|715
+117913|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|610
+117957|null|zle warunki pogodowe|Lod na pasie startowym|665
+118010|null|incydent na pokladzie|Podejrzany bagaz na pokladzie|435
+118068|null|zle warunki pogodowe|Lod na pasie startowym|280
+118252|null|inne|Uszkodzony sprzet lotniskowy|660
+118263|null|zle warunki pogodowe|Ciemnosc spowodowana zachmurzeniem|951
+118284|null|zle warunki pogodowe|Burza na trasie|414
+118298|null|incydent na pokladzie|Terrorysta na pokladzie|289
+118307|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|795
+118394|null|inne|Inne|526
+118491|null|inne|Awaria oswietlenia na lotnisku|793
+118497|null|inne|Brak paliwa|382
+118515|null|zle warunki pogodowe|Lod na pasie startowym|32
+118537|null|inne|Brak uprawnien zalogi|644
+118686|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|991
+118704|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|1116
+118736|null|inne|Inne|834
+118795|null|incydent na pokladzie|Brakujacy pasazer/czlonek zalogi|21
+118967|null|incydent na pokladzie|Pasazer bez biletu probowal poleciec|853
+118978|null|inne|Pozar na lotnisku|1163
+119020|null|incydent na pokladzie|Pasazerowie pod wplywem narkotykow na pokladzie|163
+119043|null|zle warunki pogodowe|Geste chmury nad lotniskiem|790
+119169|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|37
+119214|null|inne|Pozar na lotnisku|741
+119233|null|inne|Inne|916
+119276|null|inne|Spozniona zaloga lotnicza|1036
+119290|null|zle warunki pogodowe|Chmura popiolu wulkanicznego|822
+119450|null|inne|Zagrozenie terrorystyczne na lotnisku docelowym|582
+119482|null|inne|Brak zgody od kontrolera|403
+119581|null|zle warunki pogodowe|Deszcz zagraza startowi na pasie|254
+119590|null|incydent na pokladzie|Pijani pasazerowie|482
+119609|null|incydent na pokladzie|Pijani pasazerowie|406
+119738|null|incydent na pokladzie|Zniszczenie wyposazenia samolotu przez pasazera|499
+119877|null|zle warunki pogodowe|Huragan w okolicy lotniska|1082
+119901|null|zle warunki pogodowe|Mgla nad lotniskiem|60
+119954|null|inne|Brak zgody od kontrolera|931
+119973|null|zle warunki pogodowe|Burza sniezna na trasie samolotu|662
+119995|null|inne|Zagrozenie na lotnisku startowym|579
