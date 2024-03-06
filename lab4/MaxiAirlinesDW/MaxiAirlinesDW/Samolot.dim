@@ -1,0 +1,285 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="89716d2d-2054-4617-ad06-233e610d7d20" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Samolot</ID>
+  <Name>Samolot</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-573" scrolltop="-3037" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10329" y="14415" backcolor="16119285" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee00009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Samolot" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3450" height="4106" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e00007a0d00000a100000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Samolot" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-573</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-3037</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="176">
+            <Shape Id="Id Samolot" Expanded="true">
+              <Attributes>
+                <Attribute Id="Id Samolot" />
+                <Attribute Id="Calkowita Waga" />
+                <Attribute Id="Czy Aktualny" />
+                <Attribute Id="Fk Data Produkcji" />
+                <Attribute Id="Koszt Zakupu" />
+                <Attribute Id="Liczba Miejsc" />
+                <Attribute Id="Model" />
+                <Attribute Id="Numer Seryjny" />
+                <Attribute Id="Producent" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="dc2cdbf6-c8c9-4119-aa67-496d856eeca1">
+    <DataSourceViewID>Maxi Airlines DW</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="cb2cadc5-c352-4fc7-b914-93b53760765a">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="ef85105c-290e-4783-a726-91e28eb1e3b9">
+      <ID>Id Samolot</ID>
+      <Name>Id Samolot</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="11bfbd75-703b-42ee-8808-caf6897c730e">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="11085b3f-00bc-4d45-baba-69897ed77313">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>id_samolot</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="2aaf0848-bc1e-4587-9bef-61506a8eb9a0">
+          <AttributeID>Fk Data Produkcji</AttributeID>
+          <Name>Fk Data Produkcji</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="c4c599a1-e7b6-4740-95dc-8190b139d445">
+          <AttributeID>Numer Seryjny</AttributeID>
+          <Name>Numer Seryjny</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="cdd74a11-19e1-4972-8f37-4971b59d6f9e">
+          <AttributeID>Producent</AttributeID>
+          <Name>Producent</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="e00895c0-9e75-48d7-9bfa-e892b5b32611">
+          <AttributeID>Model</AttributeID>
+          <Name>Model</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="dd61c15a-9f9b-48ca-bfe7-15b20a132d9d">
+          <AttributeID>Calkowita Waga</AttributeID>
+          <Name>Calkowita Waga</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="393056e5-95f3-40eb-a182-e5eb990d5be5">
+          <AttributeID>Liczba Miejsc</AttributeID>
+          <Name>Liczba Miejsc</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="7686a122-3e2e-4e59-bc34-ee40d7893e73">
+          <AttributeID>Koszt Zakupu</AttributeID>
+          <Name>Koszt Zakupu</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="fceb8645-1e72-4aff-bb6d-c15ed42b00d5">
+          <AttributeID>Czy Aktualny</AttributeID>
+          <Name>Czy Aktualny</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="fe9028d4-14c9-4f70-be39-9fd23086741c">
+      <ID>Fk Data Produkcji</ID>
+      <Name>Fk Data Produkcji</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="fe13b9a4-2795-4203-8dce-e2bdbcb8f1bb">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a9a5cac4-d556-46c2-bb5c-b00f3c796b18">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>fk_data_produkcji</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="4073081a-3595-4106-891b-a9d0a5d7cad6">
+      <ID>Numer Seryjny</ID>
+      <Name>Numer Seryjny</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="54ff66a4-b674-4bd2-a1ed-162d99d67981">
+          <DataType>WChar</DataType>
+          <DataSize>16</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c879ef52-8e7d-49a7-a43b-81eb2c453304">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>numer_seryjny</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d7459f22-75e6-44a8-981d-960b3054ad00">
+      <ID>Producent</ID>
+      <Name>Producent</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="202f82be-3ff5-4baf-8264-9392ff34fdf9">
+          <DataType>WChar</DataType>
+          <DataSize>32</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a198fa59-4d4d-40e5-a9d7-9f37e640829e">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>producent</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="2be5bd1a-d2c2-4862-9df3-3ce5e9341771">
+      <ID>Model</ID>
+      <Name>Model</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="0c36be2d-cae1-4996-965f-c4ad00d056dc">
+          <DataType>WChar</DataType>
+          <DataSize>32</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e12dc234-2de0-4114-98e7-9da280edf8a9">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>model</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="f941e11f-10e9-42f6-8b05-d29566b4f157">
+      <ID>Calkowita Waga</ID>
+      <Name>Calkowita Waga</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="2de1a8df-3606-4c4e-a32e-f7221c638971">
+          <DataType>WChar</DataType>
+          <DataSize>24</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="b47e5e81-505c-4dfb-807e-999df9be4325">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>calkowita_waga</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ccd82307-59b7-47f9-8804-9402bfdc24a9">
+      <ID>Liczba Miejsc</ID>
+      <Name>Liczba Miejsc</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="2ccea508-1d16-4aac-a816-d4a14fae7bd2">
+          <DataType>WChar</DataType>
+          <DataSize>19</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e8268dbe-b207-4be4-9310-fcd707baa46e">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>liczba_miejsc</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="430d7834-ffc6-4de3-b669-bea13e7c28cf">
+      <ID>Koszt Zakupu</ID>
+      <Name>Koszt Zakupu</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="efc532cd-57f3-4216-94fe-f028f0321031">
+          <DataType>WChar</DataType>
+          <DataSize>19</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5485cba2-dea9-49f6-b2e0-12816484fd83">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>koszt_zakupu</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="cb263645-2406-4a10-85ef-5411835c1ed8">
+      <ID>Czy Aktualny</ID>
+      <Name>Czy Aktualny</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="7f34e256-ba42-469b-a3f1-a45bdd0be5a3">
+          <DataType>Boolean</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="65829db6-5666-402c-b16f-d3d144da2f9e">
+            <TableID>dbo_Samolot</TableID>
+            <ColumnID>czy_aktualny</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
