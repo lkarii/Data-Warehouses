@@ -1,0 +1,410 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="cc0af790-2b2a-48e5-9a9e-ae1285a39f78" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Maxi Airlines DW</ID>
+  <Name>Maxi Airlines DW</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>Maxi Airlines DW</DataSourceID>
+  <Schema>
+    <xs:schema id="Maxi_x0020_Airlines_x0020_DW" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Maxi_x0020_Airlines_x0020_DW" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="669dfb0f-4e04-4de8-b029-e3310cfda741">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_Awaria" msprop:design-time-name="3003c897-35e7-4014-a419-882a3d6f5127" msprop:DbTableName="Awaria" msprop:FriendlyName="Awaria" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_data_awarii" msprop:design-time-name="a821bc4f-cccf-401f-b45a-334d741b4157" msprop:DbColumnName="id_data_awarii" msprop:FriendlyName="id_data_awarii" type="xs:int" />
+                  <xs:element name="id_czas_awarii" msprop:design-time-name="f9995530-1db9-4c4f-94e4-f4cd1e691bfe" msprop:DbColumnName="id_czas_awarii" msprop:FriendlyName="id_czas_awarii" type="xs:int" />
+                  <xs:element name="id_samolot" msprop:design-time-name="779edab6-fc90-471c-932d-46738bd65fd6" msprop:DbColumnName="id_samolot" msprop:FriendlyName="id_samolot" type="xs:int" />
+                  <xs:element name="id_data_naprawy" msprop:design-time-name="a9d9b591-9f99-48ca-a1ed-b5723b99c22f" msprop:DbColumnName="id_data_naprawy" msprop:FriendlyName="id_data_naprawy" type="xs:int" />
+                  <xs:element name="id_czas_naprawy" msprop:design-time-name="b2bc9082-9bd8-4633-8e30-ed08fa0c0e8b" msprop:DbColumnName="id_czas_naprawy" msprop:FriendlyName="id_czas_naprawy" type="xs:int" />
+                  <xs:element name="id_serwis" msprop:design-time-name="f741fb85-ee5a-4f3c-8ee8-7a10e2ae6b26" msprop:DbColumnName="id_serwis" msprop:FriendlyName="id_serwis" type="xs:int" />
+                  <xs:element name="id_awaria_junk" msprop:design-time-name="bb5f322a-c5a2-4e18-9663-6c48270dd1ef" msprop:DbColumnName="id_awaria_junk" msprop:FriendlyName="id_awaria_junk" type="xs:int" />
+                  <xs:element name="calkowity_koszt_naprawy" msprop:design-time-name="c0728163-67fc-49ad-a7b3-11e6f153d02b" msprop:DbColumnName="calkowity_koszt_naprawy" msprop:FriendlyName="calkowity_koszt_naprawy" type="xs:int" />
+                  <xs:element name="rzeczywisty_koszt_naprawy" msprop:design-time-name="3187d628-aeb2-4996-99ac-065defeea4f7" msprop:DbColumnName="rzeczywisty_koszt_naprawy" msprop:FriendlyName="rzeczywisty_koszt_naprawy" type="xs:double" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_AwariaJunk" msprop:design-time-name="9f210c0d-a2cc-4844-9875-fbafbde53b45" msprop:DbTableName="AwariaJunk" msprop:FriendlyName="AwariaJunk" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_awaria_junk" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="2712c598-44e3-4ffe-91ed-7bce644966f1" msprop:DbColumnName="id_awaria_junk" msprop:FriendlyName="id_awaria_junk" type="xs:int" />
+                  <xs:element name="przyczyna_awarii" msprop:design-time-name="dca64bdd-040a-4b25-8a17-f4a61c693a43" msprop:DbColumnName="przyczyna_awarii" msprop:FriendlyName="przyczyna_awarii">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="48" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="opis_naprawy" msprop:design-time-name="ca8a8a46-d4bb-4b8b-b16f-31e0e35ff996" msprop:DbColumnName="opis_naprawy" msprop:FriendlyName="opis_naprawy">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="64" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Czas" msprop:design-time-name="98bd2fee-76dd-4068-8996-1959a846b9a5" msprop:DbTableName="Czas" msprop:FriendlyName="Czas" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_czas" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="236e0caa-c734-4988-91e8-924d0b18b1da" msprop:DbColumnName="id_czas" msprop:FriendlyName="id_czas" type="xs:int" />
+                  <xs:element name="godzina" msprop:design-time-name="efcb2b26-ccb4-498e-831c-1bcea9677323" msprop:DbColumnName="godzina" msprop:FriendlyName="godzina" type="xs:int" />
+                  <xs:element name="minuta" msprop:design-time-name="b7a5644f-01b1-4ab3-9056-e5c2ee9698a1" msprop:DbColumnName="minuta" msprop:FriendlyName="minuta" type="xs:int" />
+                  <xs:element name="sekunda" msprop:design-time-name="942bf6b9-32ba-42f0-95a1-0a3935a92eb7" msprop:DbColumnName="sekunda" msprop:FriendlyName="sekunda" type="xs:int" />
+                  <xs:element name="pora_dnia" msprop:design-time-name="aff65da1-45bb-43e5-8db0-fbac4c90ae15" msprop:DbColumnName="pora_dnia" msprop:FriendlyName="pora_dnia">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="17" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Data" msprop:design-time-name="0a9a79d9-7cef-44df-bc19-87e0a55f0f63" msprop:DbTableName="Data" msprop:FriendlyName="Data" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_data" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="3a1e1950-fafe-49c0-8695-82d061bf3cd5" msprop:DbColumnName="id_data" msprop:FriendlyName="id_data" type="xs:int" />
+                  <xs:element name="rok" msprop:design-time-name="663bf4d9-dfe7-43e6-a8e4-761041105f50" msprop:DbColumnName="rok" msprop:FriendlyName="rok" type="xs:int" />
+                  <xs:element name="miesiac" msprop:design-time-name="621cd93b-1c16-4f48-9dc3-150588d6898e" msprop:DbColumnName="miesiac" msprop:FriendlyName="miesiac">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="9" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="dzien" msprop:design-time-name="492c4228-3a19-454c-a845-b92a4b434000" msprop:DbColumnName="dzien" msprop:FriendlyName="dzien" type="xs:int" />
+                  <xs:element name="czy_dzien_roboczy" msprop:design-time-name="03190952-8de5-4543-aa48-6d6544721efe" msprop:DbColumnName="czy_dzien_roboczy" msprop:FriendlyName="czy_dzien_roboczy">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="14" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="czy_swieto" msprop:design-time-name="0aca428a-d488-47c4-a1ac-c1a641f6009d" msprop:DbColumnName="czy_swieto" msprop:FriendlyName="czy_swieto" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="10" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="dzien_tygodnia" msprop:design-time-name="94e2d70f-cb0b-4681-a5a9-8e0ec4a62197" msprop:DbColumnName="dzien_tygodnia" msprop:FriendlyName="dzien_tygodnia" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Lot" msprop:design-time-name="6be61743-f8a9-44b8-990a-2d594d7985da" msprop:DbTableName="Lot" msprop:FriendlyName="Lot" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="numer_lotu" msprop:design-time-name="dbc66415-2d0c-4311-aecb-fa56d83e86aa" msprop:DbColumnName="numer_lotu" msprop:FriendlyName="numer_lotu">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="id_samolot" msprop:design-time-name="3b46dce6-a404-4dc0-a2d9-41f68fd9843a" msprop:DbColumnName="id_samolot" msprop:FriendlyName="id_samolot" type="xs:int" />
+                  <xs:element name="id_trasy" msprop:design-time-name="1506a540-f759-4934-b575-1eb85cfa691d" msprop:DbColumnName="id_trasy" msprop:FriendlyName="id_trasy" type="xs:int" />
+                  <xs:element name="id_data_wylotu" msprop:design-time-name="697eeb57-0503-4169-8cd8-5e65b71f9afe" msprop:DbColumnName="id_data_wylotu" msprop:FriendlyName="id_data_wylotu" type="xs:int" />
+                  <xs:element name="id_czas_wylotu" msprop:design-time-name="14437dfa-5bed-4ca9-97db-68dc409b60ea" msprop:DbColumnName="id_czas_wylotu" msprop:FriendlyName="id_czas_wylotu" type="xs:int" />
+                  <xs:element name="id_data_przylotu" msprop:design-time-name="deb31c56-8a1c-4f4c-a59e-f878ac61cf68" msprop:DbColumnName="id_data_przylotu" msprop:FriendlyName="id_data_przylotu" type="xs:int" />
+                  <xs:element name="id_czas_przylotu" msprop:design-time-name="08f27e65-dbd2-4919-b7cb-eda6a83cd1be" msprop:DbColumnName="id_czas_przylotu" msprop:FriendlyName="id_czas_przylotu" type="xs:int" />
+                  <xs:element name="id_lot_junk" msprop:design-time-name="ad26a80c-e006-491d-a44d-ec6e55739317" msprop:DbColumnName="id_lot_junk" msprop:FriendlyName="id_lot_junk" type="xs:int" />
+                  <xs:element name="opoznienie_min" msprop:design-time-name="2986a776-0a3e-4f98-96ea-ee03c487f72b" msprop:DbColumnName="opoznienie_min" msprop:FriendlyName="opoznienie_min" type="xs:int" />
+                  <xs:element name="dystans" msprop:design-time-name="9202be30-5fed-4893-8f72-230ba322bc35" msprop:DbColumnName="dystans" msprop:FriendlyName="dystans" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_LotJunk" msprop:design-time-name="898a8b4d-ed0a-4e37-99d6-b97730d7189f" msprop:DbTableName="LotJunk" msprop:FriendlyName="LotJunk" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_lot_junk" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="8c11cd21-ce96-40aa-8ce5-49df4a34506d" msprop:DbColumnName="id_lot_junk" msprop:FriendlyName="id_lot_junk" type="xs:int" />
+                  <xs:element name="przyczyna_opoznienia" msprop:design-time-name="7bebdc51-b6e4-44ac-baab-862feff64a51" msprop:DbColumnName="przyczyna_opoznienia" msprop:FriendlyName="przyczyna_opoznienia">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="22" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="status_lotu" msprop:design-time-name="2915baa5-5bd3-4eb6-bb42-7f25366705f8" msprop:DbColumnName="status_lotu" msprop:FriendlyName="status_lotu">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="10" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="srednia_ocena_klienta" msprop:design-time-name="956a0edc-f97b-43a2-8ef0-793479e33f8e" msprop:DbColumnName="srednia_ocena_klienta" msprop:FriendlyName="srednia_ocena_klienta">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="36" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Samolot" msprop:design-time-name="3dd2519e-28ab-402e-a579-c9c2ed095373" msprop:DbTableName="Samolot" msprop:FriendlyName="Samolot" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_samolot" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="b088ced9-5dee-4223-8fa0-1b17df55dca0" msprop:DbColumnName="id_samolot" msprop:FriendlyName="id_samolot" type="xs:int" />
+                  <xs:element name="numer_seryjny" msprop:design-time-name="fa7a786a-0b78-4369-ac5b-99dbf14bcc81" msprop:DbColumnName="numer_seryjny" msprop:FriendlyName="numer_seryjny">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="producent" msprop:design-time-name="fe81fa09-d2f2-4374-89bc-9071dc38011a" msprop:DbColumnName="producent" msprop:FriendlyName="producent">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="model" msprop:design-time-name="e2fc40b0-dac9-4d3b-9247-df0380e38251" msprop:DbColumnName="model" msprop:FriendlyName="model">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="calkowita_waga" msprop:design-time-name="2e6fe2d4-0a23-4880-a070-a0b135e9f0a0" msprop:DbColumnName="calkowita_waga" msprop:FriendlyName="calkowita_waga">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="24" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="liczba_miejsc" msprop:design-time-name="ccc169fd-5f1a-4744-b4f0-78ac42f7faf5" msprop:DbColumnName="liczba_miejsc" msprop:FriendlyName="liczba_miejsc">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="19" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="koszt_zakupu" msprop:design-time-name="5442de8b-317d-49d6-a9cb-2fec948296f4" msprop:DbColumnName="koszt_zakupu" msprop:FriendlyName="koszt_zakupu">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="19" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="czy_aktualny" msprop:design-time-name="556c31d5-76d7-41bf-8725-688c995e2f66" msprop:DbColumnName="czy_aktualny" msprop:FriendlyName="czy_aktualny" type="xs:boolean" />
+                  <xs:element name="fk_data_produkcji" msprop:design-time-name="d2840415-ed36-4896-8b05-adfa597b625c" msprop:DbColumnName="fk_data_produkcji" msprop:FriendlyName="fk_data_produkcji" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_SerwisSamolotowy" msprop:design-time-name="9288a934-a35c-48d9-b194-8fb805235628" msprop:DbTableName="SerwisSamolotowy" msprop:FriendlyName="SerwisSamolotowy" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_serwis" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="d6dd4a82-51e9-471a-9fb4-7d432c7e09a9" msprop:DbColumnName="id_serwis" msprop:FriendlyName="id_serwis" type="xs:int" />
+                  <xs:element name="nazwa_serwisu" msprop:design-time-name="1937b922-257f-4189-b898-c6c6fc8f002b" msprop:DbColumnName="nazwa_serwisu" msprop:FriendlyName="nazwa_serwisu">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="64" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="miasto" msprop:design-time-name="55f24136-e4d6-467f-a068-fe78011f176c" msprop:DbColumnName="miasto" msprop:FriendlyName="miasto">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ulica" msprop:design-time-name="ab8e4011-2ad1-4e7c-9bc9-d5f9b6418f04" msprop:DbColumnName="ulica" msprop:FriendlyName="ulica">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="64" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="numer_budynku" msprop:design-time-name="9dbfe983-cb7f-4308-b344-7a54284d62fc" msprop:DbColumnName="numer_budynku" msprop:FriendlyName="numer_budynku">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="10" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="kod_pocztowy" msprop:design-time-name="0b77f17f-97bf-4ead-8642-c975b60c972b" msprop:DbColumnName="kod_pocztowy" msprop:FriendlyName="kod_pocztowy">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Trasa" msprop:design-time-name="8bf55837-1f07-41bb-ba2c-7e2ee23de99e" msprop:DbTableName="Trasa" msprop:FriendlyName="Trasa" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_trasy" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="6ed7ec6b-ccca-4ec7-ae9d-c2ea89312e5f" msprop:DbColumnName="id_trasy" msprop:FriendlyName="id_trasy" type="xs:int" />
+                  <xs:element name="miasto_wylotu" msprop:design-time-name="7006d708-4f61-4deb-b124-7ea503df5d3c" msprop:DbColumnName="miasto_wylotu" msprop:FriendlyName="miasto_wylotu">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="miasto_przylotu" msprop:design-time-name="761ed333-9a20-4c5d-8f78-362cf77431df" msprop:DbColumnName="miasto_przylotu" msprop:FriendlyName="miasto_przylotu">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_data_awarii" />
+          <xs:field xpath="id_czas_awarii" />
+          <xs:field xpath="id_samolot" />
+          <xs:field xpath="id_data_naprawy" />
+          <xs:field xpath="id_czas_naprawy" />
+          <xs:field xpath="id_serwis" />
+          <xs:field xpath="id_awaria_junk" />
+        </xs:unique>
+        <xs:unique name="dbo_AwariaJunk_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_AwariaJunk" />
+          <xs:field xpath="id_awaria_junk" />
+        </xs:unique>
+        <xs:unique name="dbo_Czas_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Czas" />
+          <xs:field xpath="id_czas" />
+        </xs:unique>
+        <xs:unique name="dbo_Data_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Data" />
+          <xs:field xpath="id_data" />
+        </xs:unique>
+        <xs:unique name="dbo_Lot_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_samolot" />
+          <xs:field xpath="id_trasy" />
+          <xs:field xpath="id_data_wylotu" />
+          <xs:field xpath="id_czas_wylotu" />
+          <xs:field xpath="id_data_przylotu" />
+          <xs:field xpath="id_czas_przylotu" />
+          <xs:field xpath="id_lot_junk" />
+        </xs:unique>
+        <xs:unique name="dbo_LotJunk_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_LotJunk" />
+          <xs:field xpath="id_lot_junk" />
+        </xs:unique>
+        <xs:unique name="dbo_Samolot_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Samolot" />
+          <xs:field xpath="id_samolot" />
+        </xs:unique>
+        <xs:unique name="dbo_SerwisSamolotowy_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_SerwisSamolotowy" />
+          <xs:field xpath="id_serwis" />
+        </xs:unique>
+        <xs:unique name="dbo_Trasa_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Trasa" />
+          <xs:field xpath="id_trasy" />
+        </xs:unique>
+        <xs:keyref name="FK__Samolot__fk_data__286302EC" refer="dbo_Data_Constraint1">
+          <xs:selector xpath=".//dbo_Samolot" />
+          <xs:field xpath="fk_data_produkcji" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_trasy__3D5E1FD2" refer="dbo_Trasa_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_trasy" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_samolot__3C69FB99" refer="dbo_Samolot_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_samolot" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_lot_junk__4222D4EF" refer="dbo_LotJunk_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_lot_junk" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_data_prz__403A8C7D" refer="dbo_Data_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_data_przylotu" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_data_wyl__3E52440B" refer="dbo_Data_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_data_wylotu" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_czas_wyl__3F466844" refer="dbo_Czas_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_czas_wylotu" />
+        </xs:keyref>
+        <xs:keyref name="FK__Lot__id_czas_prz__412EB0B6" refer="dbo_Czas_Constraint1">
+          <xs:selector xpath=".//dbo_Lot" />
+          <xs:field xpath="id_czas_przylotu" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_samol__35BCFE0A" refer="dbo_Samolot_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_samolot" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_data___36B12243" refer="dbo_Data_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_data_naprawy" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_czas___37A5467C" refer="dbo_Czas_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_czas_naprawy" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_awari__398D8EEE" refer="dbo_AwariaJunk_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_awaria_junk" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_serwi__38996AB5" refer="dbo_SerwisSamolotowy_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_serwis" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_data___33D4B598" refer="dbo_Data_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_data_awarii" />
+        </xs:keyref>
+        <xs:keyref name="FK__Awaria__id_czas___34C8D9D1" refer="dbo_Czas_Constraint1">
+          <xs:selector xpath=".//dbo_Awaria" />
+          <xs:field xpath="id_czas_awarii" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Maxi_x0020_Airlines_x0020_DW xmlns="" />
+  </Schema>
+</DataSourceView>

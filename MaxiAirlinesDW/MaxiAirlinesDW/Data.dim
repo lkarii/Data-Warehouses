@@ -1,0 +1,589 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="57e3ac75-57a7-42ee-bd05-17ee638c130f" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Data</ID>
+  <Name>Data</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-478" scrolltop="-3397" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="6477" y="9758" backcolor="16119285" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee00009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Data" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3641" height="3387" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000390e00003b0d0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Data" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-478</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-3397</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="161">
+            <Shape Id="Id Data" Expanded="false">
+              <Attributes>
+                <Attribute Id="Id Data" />
+                <Attribute Id="Czy Swieto" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+            <Shape Id="Dzien Tygodnia" Expanded="false">
+              <Attributes>
+                <Attribute Id="Dzien Tygodnia" />
+              </Attributes>
+              <Position x="226" y="20" />
+            </Shape>
+            <Shape Id="Czy Dzien Roboczy" Expanded="false">
+              <Attributes>
+                <Attribute Id="Czy Dzien Roboczy" />
+              </Attributes>
+              <Position x="226" y="69" />
+            </Shape>
+            <Shape Id="Dzien" Expanded="false">
+              <Attributes>
+                <Attribute Id="Dzien" />
+              </Attributes>
+              <Position x="226" y="118" />
+            </Shape>
+            <Shape Id="Miesiac" Expanded="false">
+              <Attributes>
+                <Attribute Id="Miesiac" />
+              </Attributes>
+              <Position x="226" y="167" />
+            </Shape>
+            <Shape Id="Rok" Expanded="false">
+              <Attributes>
+                <Attribute Id="Rok" />
+              </Attributes>
+              <Position x="226" y="216" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="4722f82e-163e-4351-bc80-ca848416afaf">
+    <DataSourceViewID>Maxi Airlines DW</DataSourceViewID>
+  </Source>
+  <Type>Time</Type>
+  <ErrorConfiguration dwd:design-time-name="82ec355e-e44c-4578-885e-f7015465ae21">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="6744d060-2352-48bb-b33f-14b16dece690">
+      <ID>Id Data</ID>
+      <Name>Id Data</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="d2ce5bc4-5bba-4d03-8e7e-e86ba5dede83">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f9c872d9-d96a-4f86-ba72-1cd8ccc04660">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>id_data</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="2ce3ae7d-b032-4817-9251-57adff801cd1">
+          <AttributeID>Rok</AttributeID>
+          <Name>Rok</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="88cb8a35-38f1-4961-aa8a-9109e69a9143">
+          <AttributeID>Miesiac</AttributeID>
+          <Name>Miesiac</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="3ae70aeb-8879-452a-a44c-f695fb7c5b5c">
+          <AttributeID>Dzien</AttributeID>
+          <Name>Dzien</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="b5d18fc0-a6bf-4603-94e0-ba6bb15ce33e">
+          <AttributeID>Czy Dzien Roboczy</AttributeID>
+          <Name>Czy Dzien Roboczy</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="f3595402-0e1d-4709-ae17-dc04ce234a6c">
+          <AttributeID>Czy Swieto</AttributeID>
+          <Name>Czy Swieto</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="1077ca6a-3beb-41bd-9972-c8cd85b7fb1b">
+          <AttributeID>Dzien Tygodnia</AttributeID>
+          <Name>Dzien Tygodnia</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="9d7d7005-27f0-4fea-9ebe-9bf8bf2838db">
+      <ID>Rok</ID>
+      <Name>Rok</Name>
+      <Type>Years</Type>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="17adaf29-71a9-4b95-be04-983f62ce86e2">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="dd80fd71-9b1f-442e-98ba-8cf6ff7f2f71">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>rok</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="b2b6477f-cf15-4288-88a9-8265e267752c">
+      <ID>Miesiac</ID>
+      <Name>Miesiac</Name>
+      <Type>Months</Type>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8812de1c-6674-4b27-bca4-2e28f8ccbb36">
+          <DataType>WChar</DataType>
+          <DataSize>9</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="3e95cddf-5015-4d4a-b514-9b3c8e900fc3">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>miesiac</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="0e79fef5-9c38-457c-bdcb-344fde7a5c16">
+      <ID>Dzien</ID>
+      <Name>Dzien</Name>
+      <Type>DayOfYear</Type>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b224455a-ee11-414d-9771-1929aa133014">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e717f757-9a7f-419a-8073-9fd882afdf98">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>dzien</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="c33482b8-7979-4ead-ada2-df07741d20de">
+      <ID>Czy Dzien Roboczy</ID>
+      <Name>Czy Dzien Roboczy</Name>
+      <Type>IsWorkingDay</Type>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="224605b0-ed1d-4104-847b-4d389cf484dd">
+          <DataType>WChar</DataType>
+          <DataSize>14</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c7d29284-30ea-4ad8-b657-f27d485bbdcd">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>czy_dzien_roboczy</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="462cbbca-0bf5-4b05-9ffa-4bab823a36c7">
+      <ID>Czy Swieto</ID>
+      <Name>Czy Swieto</Name>
+      <Type>IsHoliday</Type>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ff43b0d1-6261-4b00-8a60-cd6c5286c384">
+          <DataType>WChar</DataType>
+          <DataSize>10</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="856dbb25-fb24-4b82-9b78-fa343b349df9">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>czy_swieto</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="71c70330-e896-435e-b18d-f468ec68cf94">
+      <ID>Dzien Tygodnia</ID>
+      <Name>Dzien Tygodnia</Name>
+      <Type>DayOfWeek</Type>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="c2ecbb38-7a98-4bf1-a8a3-20d9a6ba3340">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="bc584848-9270-4313-871c-cafa346eba57">
+            <TableID>dbo_Data</TableID>
+            <ColumnID>dzien_tygodnia</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="11459496-bd05-4143-976a-24f034a37164">
+      <ID>Hierarchy</ID>
+      <Name>HierarchiaDatyProdukcji</Name>
+      <Levels>
+        <Level dwd:design-time-name="b9ca26ea-b67b-43ef-bb39-e98275fd301b">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="a8ed788a-28cf-468f-bc06-047f28798753">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="34004e23-1468-41a7-90b0-02f249373de8">
+          <ID>Dzien</ID>
+          <Name>Dzien</Name>
+          <SourceAttributeID>Dzien</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="519f114c-8a66-42a9-822a-dd7c605dce74">
+      <ID>Hierarchy 1</ID>
+      <Name>HierarchiaRoboczegoDniaProdukcji</Name>
+      <Levels>
+        <Level dwd:design-time-name="46f93204-2d93-43ca-908f-800035d31071">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="524f0b34-5683-4eeb-beab-717bbbb570fd">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="e5361a5d-c6ed-4fd0-860b-e94ef15f3834">
+          <ID>Czy Dzien Roboczy</ID>
+          <Name>Czy Dzien Roboczy</Name>
+          <SourceAttributeID>Czy Dzien Roboczy</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="8d880750-4f2e-43e3-9879-0575b5eaff2b">
+      <ID>Hierarchy 2</ID>
+      <Name>HierarchiaDniaTygodniaProdukcji</Name>
+      <Levels>
+        <Level dwd:design-time-name="a58e3a03-858a-4157-a232-98edb4f35734">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="fc1c8941-1f26-42cf-827d-4616beb2b8fc">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="4ba44131-86e0-48b1-8d9b-dd083a03a341">
+          <ID>Dzien Tygodnia</ID>
+          <Name>Dzien Tygodnia</Name>
+          <SourceAttributeID>Dzien Tygodnia</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="a9930e58-554e-4525-bc74-f3dcb720f528">
+      <ID>Hierarchy 3</ID>
+      <Name>HierarchiaDatyAwarii</Name>
+      <Levels>
+        <Level dwd:design-time-name="07995c05-a74f-4a23-b711-38667f3a743e">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="89deb7d3-4ffc-4026-9056-e2f5303ecb23">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="f701c9bc-314c-4a64-81de-34625f50abac">
+          <ID>Dzien</ID>
+          <Name>Dzien</Name>
+          <SourceAttributeID>Dzien</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="7c76989a-70c8-4385-8d75-a4f063fb2aa3">
+      <ID>Hierarchy 1 1</ID>
+      <Name>HierarchiaRoboczegoDniaAwarii</Name>
+      <Levels>
+        <Level dwd:design-time-name="ecccafd5-90cb-4eca-af9d-c4a4acfc8893">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="055c63fd-9cfb-46b7-a73e-c9f7ac8f3979">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="d32b160e-7ad1-44c9-945a-5e4ab388715b">
+          <ID>Czy Dzien Roboczy</ID>
+          <Name>Czy Dzien Roboczy</Name>
+          <SourceAttributeID>Czy Dzien Roboczy</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="0f8806e9-f7a0-4406-847c-4c2a74281b1a">
+      <ID>Hierarchy 2 1</ID>
+      <Name>HierarchiaDniaTygodniaAwarii</Name>
+      <Levels>
+        <Level dwd:design-time-name="f2b6ef4a-31c6-4129-a19f-a08da21a7412">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="9d3bae6a-bde1-4cb8-ae17-38d70ad44f71">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="b39a7bb7-3120-4d28-b29c-b8aa0583b065">
+          <ID>Dzien Tygodnia</ID>
+          <Name>Dzien Tygodnia</Name>
+          <SourceAttributeID>Dzien Tygodnia</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="6a51acb9-ff10-4b54-92db-565801e4a712">
+      <ID>Hierarchy 3 1</ID>
+      <Name>HierarchiaDatyNaprawy</Name>
+      <Levels>
+        <Level dwd:design-time-name="526d1ea8-f122-4240-80a7-09d88efc0d0a">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="9c9d17c1-5462-4421-be11-5cc2d198c9ed">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="bdab4845-4ec2-42e0-8e11-2fd57f2a1c29">
+          <ID>Dzien</ID>
+          <Name>Dzien</Name>
+          <SourceAttributeID>Dzien</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="044960ac-ce9f-43d0-b8a9-b3a26d0fd961">
+      <ID>Hierarchy 1 1 1</ID>
+      <Name>HierarchiaRoboczegoDniaNaprawy</Name>
+      <Levels>
+        <Level dwd:design-time-name="f4685beb-6ffe-40f2-a8c7-69497324d33a">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="ad91e25d-8287-4901-aa19-6ca6d15fdd25">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="b87d34ce-a583-482b-8011-b990d843deed">
+          <ID>Czy Dzien Roboczy</ID>
+          <Name>Czy Dzien Roboczy</Name>
+          <SourceAttributeID>Czy Dzien Roboczy</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="8d807371-5c85-48fa-bd2b-eac5f8b82639">
+      <ID>Hierarchy 2 1 1</ID>
+      <Name>HierarchiaDniaTygodniaNaprawy</Name>
+      <Levels>
+        <Level dwd:design-time-name="bf555d63-31f4-4641-ace0-60d34699510d">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="188e3b44-ae36-4957-a294-6c41a7033f27">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="f404a7fc-6ecc-4737-a682-d43d029681bd">
+          <ID>Dzien Tygodnia</ID>
+          <Name>Dzien Tygodnia</Name>
+          <SourceAttributeID>Dzien Tygodnia</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="373493ca-2e71-4bda-bbe8-3310182ff520">
+      <ID>Hierarchy 3 1 1</ID>
+      <Name>HierarchiaDatyWylotu</Name>
+      <Levels>
+        <Level dwd:design-time-name="be6c8ff8-8d23-4d9b-a5b7-fea4a3ec4541">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="2e45e396-e4f1-4e1d-ba7b-24665a48e773">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="717a4d4e-988b-4e7d-ac74-13589d7d3ba5">
+          <ID>Dzien</ID>
+          <Name>Dzien</Name>
+          <SourceAttributeID>Dzien</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="5e989cb5-8ad2-4893-89ed-a1d3e672ef6a">
+      <ID>Hierarchy 1 1 1 1</ID>
+      <Name>HierarchiaRoboczegoDniaWylotu</Name>
+      <Levels>
+        <Level dwd:design-time-name="e3ede26e-9722-4999-a088-09b03f7e1979">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="d79e20b3-e595-465e-9d61-4e3650ee1370">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="4ba7b3e5-eb4e-4843-9c4b-f4452e900b0c">
+          <ID>Czy Dzien Roboczy</ID>
+          <Name>Czy Dzien Roboczy</Name>
+          <SourceAttributeID>Czy Dzien Roboczy</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="943f2a30-2eef-4db1-bf8e-bb4e8b0b7abe">
+      <ID>Hierarchy 2 1 1 1</ID>
+      <Name>HierarchiaDniaTygodniaWylotu</Name>
+      <Levels>
+        <Level dwd:design-time-name="7e2a031f-5021-4e3e-bfdc-4447806ead1d">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="8df1027c-814d-4437-a719-f7f8bfa0a199">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="3de09ca8-f906-42fa-bdcb-ac1424f78e6c">
+          <ID>Dzien Tygodnia</ID>
+          <Name>Dzien Tygodnia</Name>
+          <SourceAttributeID>Dzien Tygodnia</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="e2f38b8c-ef1a-4359-a733-b2744292addb">
+      <ID>Hierarchy 3 1 1 1</ID>
+      <Name>HierarchiaDatyPrzylotu</Name>
+      <Levels>
+        <Level dwd:design-time-name="89b3e4e1-9ad2-4190-a27d-584d1c7d3dc2">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="1456020c-3d9b-45a9-9480-62a1b1d7b970">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="d479db41-f663-4740-b1ae-40bdab77f9e2">
+          <ID>Dzien</ID>
+          <Name>Dzien</Name>
+          <SourceAttributeID>Dzien</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="91530efa-4c8a-4e23-b219-2bc951fb43c5">
+      <ID>Hierarchy 1 1 1 1 1</ID>
+      <Name>HierarchiaRoboczegoDniaPrzylotu</Name>
+      <Levels>
+        <Level dwd:design-time-name="eb14c1e5-4bac-4437-94b6-1174e7bfc6fd">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="8dce4493-f3a0-4c6a-a6f0-093c3aca8994">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="30515310-5fee-4773-ac19-083590c2f9e9">
+          <ID>Czy Dzien Roboczy</ID>
+          <Name>Czy Dzien Roboczy</Name>
+          <SourceAttributeID>Czy Dzien Roboczy</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+    <Hierarchy dwd:design-time-name="d8704f2e-f945-4f0b-a54e-04c0332fe367">
+      <ID>Hierarchy 2 1 1 1 1</ID>
+      <Name>HierarchiaDniaTygodniaPrzylotu</Name>
+      <Levels>
+        <Level dwd:design-time-name="eaab5e79-f0c0-431c-aac6-3338ac927597">
+          <ID>Rok</ID>
+          <Name>Rok</Name>
+          <SourceAttributeID>Rok</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="62be20fa-ec97-4042-8623-995a18ef63e2">
+          <ID>Miesiac</ID>
+          <Name>Miesiac</Name>
+          <SourceAttributeID>Miesiac</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="21f944a3-8e79-4113-8748-0cacc759a790">
+          <ID>Dzien Tygodnia</ID>
+          <Name>Dzien Tygodnia</Name>
+          <SourceAttributeID>Dzien Tygodnia</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
